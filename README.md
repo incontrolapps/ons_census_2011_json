@@ -20,5 +20,6 @@ The following datasets, listed on https://www.nomisweb.co.uk/api/v01/dataset/def
     {id:"NM_588_1", description:"Industry"},
     {id:"NM_589_1", description:"Occupation"},
     {id:"NM_614_1", description:"KS207WA - Welsh language skills"},
-    {id:"NM_615_1", description:"KS208WA - Welsh language profile"}];
+    {id:"NM_615_1", description:"KS208WA - Welsh language profile"}
+    ];
 ```
