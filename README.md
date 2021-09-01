@@ -1,5 +1,6 @@
 The following datasets, listed on https://www.nomisweb.co.uk/api/v01/dataset/def.htm are not delivered by this script:
-```javascript[
+```javascript
+[
     {id:"NM_509_1", description:"Population"},
     {id:"NM_520_1", description:"Ethnic Group"},
     {id:"NM_521_1", description:"QS121EW - Armed Forces"},
