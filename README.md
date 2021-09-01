@@ -1,4 +1,4 @@
-The following datasets, listed on https://www.nomisweb.co.uk/api/v01/dataset/def.htm are not delivered by this script:
+The following datasets, listed on https://www.nomisweb.co.uk/api/v01/dataset/def.htm are not delivered by the get_data.js script:
 ```javascript
 [
     {id:"NM_509_1", description:"Population"},
