@@ -1,0 +1,102 @@
+[
+    {
+        "dataset_id": "NM_529_1",
+        "dataset_description": "QS208EW - Religion",
+        "id": "0",
+        "key": "All categories: Religion",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_529_1",
+        "dataset_description": "QS208EW - Religion",
+        "id": "1",
+        "key": "Christian",
+        "value_abs": 245247,
+        "value_pc": 48.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_529_1",
+        "dataset_description": "QS208EW - Religion",
+        "id": "2",
+        "key": "Buddhist",
+        "value_abs": 3879,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_529_1",
+        "dataset_description": "QS208EW - Religion",
+        "id": "3",
+        "key": "Hindu",
+        "value_abs": 5452,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_529_1",
+        "dataset_description": "QS208EW - Religion",
+        "id": "4",
+        "key": "Jewish",
+        "value_abs": 2613,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_529_1",
+        "dataset_description": "QS208EW - Religion",
+        "id": "5",
+        "key": "Muslim",
+        "value_abs": 79496,
+        "value_pc": 15.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_529_1",
+        "dataset_description": "QS208EW - Religion",
+        "id": "6",
+        "key": "Sikh",
+        "value_abs": 2292,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_529_1",
+        "dataset_description": "QS208EW - Religion",
+        "id": "7",
+        "key": "Other religion",
+        "value_abs": 1889,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_529_1",
+        "dataset_description": "QS208EW - Religion",
+        "id": "8",
+        "key": "No religion",
+        "value_abs": 127485,
+        "value_pc": 25.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_529_1",
+        "dataset_description": "QS208EW - Religion",
+        "id": "9",
+        "key": "Religion not stated",
+        "value_abs": 34774,
+        "value_pc": 6.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

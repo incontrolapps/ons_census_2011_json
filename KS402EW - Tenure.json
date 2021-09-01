@@ -1,0 +1,122 @@
+[
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "0",
+        "key": "All households",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "100",
+        "key": "Owned",
+        "value_abs": 77395,
+        "value_pc": 37.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "1",
+        "key": "Owned: Owned outright",
+        "value_abs": 31145,
+        "value_pc": 15.2,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "2",
+        "key": "Owned: Owned with a mortgage or loan",
+        "value_abs": 46250,
+        "value_pc": 22.6,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "3",
+        "key": "Shared ownership (part owned and part rented)",
+        "value_abs": 1481,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "200",
+        "key": "Social rented",
+        "value_abs": 64682,
+        "value_pc": 31.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "4",
+        "key": "Social rented: Rented from council (Local Authority)",
+        "value_abs": 27585,
+        "value_pc": 13.5,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "5",
+        "key": "Social rented: Other",
+        "value_abs": 37097,
+        "value_pc": 18.1,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "300",
+        "key": "Private rented",
+        "value_abs": 58170,
+        "value_pc": 28.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "6",
+        "key": "Private rented: Private landlord or letting agency",
+        "value_abs": 55043,
+        "value_pc": 26.9,
+        "group_name": "Manchester",
+        "parent": "300"
+    },
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "7",
+        "key": "Private rented: Other",
+        "value_abs": 3127,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "300"
+    },
+    {
+        "dataset_id": "NM_619_1",
+        "dataset_description": "KS402EW - Tenure",
+        "id": "8",
+        "key": "Living rent free",
+        "value_abs": 3241,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

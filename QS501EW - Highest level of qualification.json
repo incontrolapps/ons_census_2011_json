@@ -1,0 +1,82 @@
+[
+    {
+        "dataset_id": "NM_554_1",
+        "dataset_description": "QS501EW - Highest level of qualification",
+        "id": "0",
+        "key": "All categories: Highest level of qualification",
+        "value_abs": 405709,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_554_1",
+        "dataset_description": "QS501EW - Highest level of qualification",
+        "id": "1",
+        "key": "No qualifications",
+        "value_abs": 93765,
+        "value_pc": 23.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_554_1",
+        "dataset_description": "QS501EW - Highest level of qualification",
+        "id": "2",
+        "key": "Level 1 qualifications",
+        "value_abs": 44981,
+        "value_pc": 11.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_554_1",
+        "dataset_description": "QS501EW - Highest level of qualification",
+        "id": "3",
+        "key": "Level 2 qualifications",
+        "value_abs": 48749,
+        "value_pc": 12,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_554_1",
+        "dataset_description": "QS501EW - Highest level of qualification",
+        "id": "4",
+        "key": "Apprenticeship",
+        "value_abs": 6902,
+        "value_pc": 1.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_554_1",
+        "dataset_description": "QS501EW - Highest level of qualification",
+        "id": "5",
+        "key": "Level 3 qualifications",
+        "value_abs": 65100,
+        "value_pc": 16,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_554_1",
+        "dataset_description": "QS501EW - Highest level of qualification",
+        "id": "6",
+        "key": "Level 4 qualifications and above",
+        "value_abs": 117243,
+        "value_pc": 28.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_554_1",
+        "dataset_description": "QS501EW - Highest level of qualification",
+        "id": "7",
+        "key": "Other qualifications",
+        "value_abs": 28969,
+        "value_pc": 7.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

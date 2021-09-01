@@ -1,0 +1,122 @@
+[
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "0",
+        "key": "All lone parent housholds with dependent children",
+        "value_abs": 20125,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "1",
+        "key": "Lone parent in part-time employment: Total",
+        "value_abs": 5631,
+        "value_pc": 28,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "2",
+        "key": "Lone parent in full-time employment: Total",
+        "value_abs": 4131,
+        "value_pc": 20.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "3",
+        "key": "Lone parent not in employment: Total",
+        "value_abs": 10363,
+        "value_pc": 51.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "4",
+        "key": "Male lone parent: Total",
+        "value_abs": 1608,
+        "value_pc": 8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "5",
+        "key": "Male lone parent: In part-time employment",
+        "value_abs": 253,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "6",
+        "key": "Male lone parent: In full-time employment",
+        "value_abs": 575,
+        "value_pc": 2.9,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "7",
+        "key": "Male lone parent: Not in employment",
+        "value_abs": 780,
+        "value_pc": 3.9,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "8",
+        "key": "Female lone parent: Total",
+        "value_abs": 18517,
+        "value_pc": 92,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "9",
+        "key": "Female lone parent: In part-time employment",
+        "value_abs": 5378,
+        "value_pc": 26.7,
+        "group_name": "Manchester",
+        "parent": "8"
+    },
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "10",
+        "key": "Female lone parent: In full-time employment",
+        "value_abs": 3556,
+        "value_pc": 17.7,
+        "group_name": "Manchester",
+        "parent": "8"
+    },
+    {
+        "dataset_id": "NM_607_1",
+        "dataset_description": "KS107EW - Lone parent households with dependent children",
+        "id": "11",
+        "key": "Female lone parent: Not in employment",
+        "value_abs": 9583,
+        "value_pc": 47.6,
+        "group_name": "Manchester",
+        "parent": "8"
+    }
+]

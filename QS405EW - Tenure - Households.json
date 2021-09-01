@@ -1,0 +1,142 @@
+[
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "0",
+        "key": "All categories: Tenure",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "1",
+        "key": "Owned: Total",
+        "value_abs": 77395,
+        "value_pc": 37.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "2",
+        "key": "Owned: Owned outright",
+        "value_abs": 31145,
+        "value_pc": 15.2,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "3",
+        "key": "Owned: Owned with a mortgage or loan",
+        "value_abs": 46250,
+        "value_pc": 22.6,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "4",
+        "key": "Shared ownership (part owned and part rented)",
+        "value_abs": 1481,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "5",
+        "key": "Social rented: Total",
+        "value_abs": 64682,
+        "value_pc": 31.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "6",
+        "key": "Social rented: Rented from council (Local Authority)",
+        "value_abs": 27585,
+        "value_pc": 13.5,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "7",
+        "key": "Social rented: Other social rented",
+        "value_abs": 37097,
+        "value_pc": 18.1,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "8",
+        "key": "Private rented: Total",
+        "value_abs": 58170,
+        "value_pc": 28.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "9",
+        "key": "Private rented: Private landlord or letting agency",
+        "value_abs": 55043,
+        "value_pc": 26.9,
+        "group_name": "Manchester",
+        "parent": "8"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "10",
+        "key": "Private rented: Employer of a household member",
+        "value_abs": 167,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "8"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "11",
+        "key": "Private rented: Relative or friend of household member",
+        "value_abs": 2153,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "8"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "12",
+        "key": "Private rented: Other",
+        "value_abs": 807,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "8"
+    },
+    {
+        "dataset_id": "NM_537_1",
+        "dataset_description": "QS405EW - Tenure - Households",
+        "id": "13",
+        "key": "Living rent free",
+        "value_abs": 3241,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

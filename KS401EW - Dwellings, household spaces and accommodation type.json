@@ -1,0 +1,142 @@
+[
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "0",
+        "key": "All categories: Dwelling type",
+        "value_abs": 213529,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "1",
+        "key": "Unshared dwelling",
+        "value_abs": 213243,
+        "value_pc": 99.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "2",
+        "key": "Shared dwelling: Two household spaces",
+        "value_abs": 103,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "3",
+        "key": "Shared dwelling: Three or more household spaces",
+        "value_abs": 183,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "4",
+        "key": "All categories: Household spaces",
+        "value_abs": 214377,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "5",
+        "key": "Household spaces with at least one usual resident",
+        "value_abs": 204969,
+        "value_pc": 95.6,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "6",
+        "key": "Household spaces with no usual residents",
+        "value_abs": 9408,
+        "value_pc": 4.4,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "7",
+        "key": "Whole house or bungalow: Detached",
+        "value_abs": 10634,
+        "value_pc": 5,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "8",
+        "key": "Whole house or bungalow: Semi-detached",
+        "value_abs": 64967,
+        "value_pc": 30.3,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "9",
+        "key": "Whole house or bungalow: Terraced (including end-terrace)",
+        "value_abs": 64692,
+        "value_pc": 30.2,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "10",
+        "key": "Flat, maisonette or apartment: Purpose-built block of flats or tenement",
+        "value_abs": 61370,
+        "value_pc": 28.6,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "11",
+        "key": "Flat, maisonette or apartment: Part of a converted or shared house (including bed-sits)",
+        "value_abs": 10236,
+        "value_pc": 4.8,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "12",
+        "key": "Flat, maisonette or apartment: In a commercial building",
+        "value_abs": 2383,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_618_1",
+        "dataset_description": "KS401EW - Dwellings, household spaces and accommodation type",
+        "id": "13",
+        "key": "Caravan or other mobile or temporary structure",
+        "value_abs": 95,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "4"
+    }
+]

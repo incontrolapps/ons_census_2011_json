@@ -1,0 +1,102 @@
+[
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "0",
+        "key": "All categories: Occupation",
+        "value_abs": 213705,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "1",
+        "key": "1. Managers, directors and senior officials",
+        "value_abs": 15977,
+        "value_pc": 7.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "2",
+        "key": "2. Professional occupations",
+        "value_abs": 42788,
+        "value_pc": 20,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "3",
+        "key": "3. Associate professional and technical occupations",
+        "value_abs": 26590,
+        "value_pc": 12.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "4",
+        "key": "4. Administrative and secretarial occupations",
+        "value_abs": 22286,
+        "value_pc": 10.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "5",
+        "key": "5. Skilled trades occupations",
+        "value_abs": 16083,
+        "value_pc": 7.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "6",
+        "key": "6. Caring, leisure and other service occupations",
+        "value_abs": 20847,
+        "value_pc": 9.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "7",
+        "key": "7. Sales and customer service occupations",
+        "value_abs": 24065,
+        "value_pc": 11.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "8",
+        "key": "8. Process plant and machine operatives",
+        "value_abs": 13372,
+        "value_pc": 6.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "9",
+        "key": "9. Elementary occupations",
+        "value_abs": 31697,
+        "value_pc": 14.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

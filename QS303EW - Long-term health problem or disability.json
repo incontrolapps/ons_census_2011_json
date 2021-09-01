@@ -1,0 +1,42 @@
+[
+    {
+        "dataset_id": "NM_532_1",
+        "dataset_description": "QS303EW - Long-term health problem or disability",
+        "id": "0",
+        "key": "All categories: Long-term health problem or disability",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_532_1",
+        "dataset_description": "QS303EW - Long-term health problem or disability",
+        "id": "1",
+        "key": "Day-to-day activities limited a lot",
+        "value_abs": 47353,
+        "value_pc": 9.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_532_1",
+        "dataset_description": "QS303EW - Long-term health problem or disability",
+        "id": "2",
+        "key": "Day-to-day activities limited a little",
+        "value_abs": 42011,
+        "value_pc": 8.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_532_1",
+        "dataset_description": "QS303EW - Long-term health problem or disability",
+        "id": "3",
+        "key": "Day-to-day activities not limited",
+        "value_abs": 413763,
+        "value_pc": 82.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

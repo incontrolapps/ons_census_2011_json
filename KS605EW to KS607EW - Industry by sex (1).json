@@ -1,0 +1,32 @@
+[
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "0",
+        "key": "All persons",
+        "value_abs": 213705,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "1",
+        "key": "Males",
+        "value_abs": 138,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "2",
+        "key": "Females",
+        "value_abs": 66,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

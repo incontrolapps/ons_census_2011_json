@@ -1,0 +1,142 @@
+[
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "0",
+        "key": "All communal establishments",
+        "value_abs": 750,
+        "value_pc": null,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "1",
+        "key": "All categories: Usual residents by communal establishment management and type",
+        "value_abs": 22097,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "2",
+        "key": "Medical and care establishment: NHS: General hospital",
+        "value_abs": 8,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "3",
+        "key": "Medical and care establishment: NHS: Mental health hospital/unit (including secure units)",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "4",
+        "key": "Medical and care establishment: NHS: Other hospital",
+        "value_abs": 48,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "5",
+        "key": "Medical and care establishment: Local Authority: Children's home (including secure units)",
+        "value_abs": 33,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "6",
+        "key": "Medical and care establishment: Local Authority: Care home or other home",
+        "value_abs": 19,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "7",
+        "key": "Medical and care establishment: Registered Social Landlord/Housing Association",
+        "value_abs": 12,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "8",
+        "key": "Medical and care establishment: Other: Care home with nursing",
+        "value_abs": 1152,
+        "value_pc": 5.2,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "9",
+        "key": "Medical and care establishment: Other: Care home without nursing",
+        "value_abs": 914,
+        "value_pc": 4.1,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "10",
+        "key": "Medical and care establishment: Other: Children's home (including secure units)",
+        "value_abs": 53,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "11",
+        "key": "Medical and care establishment: Other",
+        "value_abs": 232,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "12",
+        "key": "Other establishments",
+        "value_abs": 19485,
+        "value_pc": 88.2,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_622_1",
+        "dataset_description": "KS405EW - Communal establishment residents",
+        "id": "13",
+        "key": "Establishment not stated",
+        "value_abs": 141,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "1"
+    }
+]

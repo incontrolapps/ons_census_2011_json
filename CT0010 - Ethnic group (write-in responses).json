@@ -1,0 +1,952 @@
+[
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "0",
+        "key": "All categories: Ethnic group",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "1",
+        "key": "English/Welsh/Scottish/Northern Irish/British",
+        "value_abs": 299339,
+        "value_pc": 59.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "2",
+        "key": "Irish",
+        "value_abs": 11946,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "3",
+        "key": "Gypsy or Irish Traveller",
+        "value_abs": 524,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "4",
+        "key": "Other White",
+        "value_abs": 2621,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "5",
+        "key": "White and Black Caribbean",
+        "value_abs": 8887,
+        "value_pc": 1.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "6",
+        "key": "White and Black African",
+        "value_abs": 4414,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "7",
+        "key": "White and Asian",
+        "value_abs": 4818,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "8",
+        "key": "Other mixed",
+        "value_abs": 1500,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "9",
+        "key": "Indian or British Indian",
+        "value_abs": 11481,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "10",
+        "key": "Pakistani or British Pakistani",
+        "value_abs": 43015,
+        "value_pc": 8.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "11",
+        "key": "Bangladeshi, British Bangladeshi",
+        "value_abs": 6451,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "12",
+        "key": "Chinese",
+        "value_abs": 13698,
+        "value_pc": 2.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "13",
+        "key": "Other Asian",
+        "value_abs": 952,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "14",
+        "key": "African",
+        "value_abs": 26257,
+        "value_pc": 5.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "15",
+        "key": "Caribbean",
+        "value_abs": 9814,
+        "value_pc": 2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "16",
+        "key": "Other Black",
+        "value_abs": 1385,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "17",
+        "key": "Arab",
+        "value_abs": 9835,
+        "value_pc": 2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "18",
+        "key": "Any other ethnic group",
+        "value_abs": 376,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "19",
+        "key": "Afghan",
+        "value_abs": 1915,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "20",
+        "key": "African/Arab",
+        "value_abs": 114,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "21",
+        "key": "Albanian",
+        "value_abs": 102,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "22",
+        "key": "Anglo Indian",
+        "value_abs": 34,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "23",
+        "key": "Argentinian",
+        "value_abs": 15,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "24",
+        "key": "Australian/New Zealander",
+        "value_abs": 393,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "25",
+        "key": "Baltic States",
+        "value_abs": 1016,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "26",
+        "key": "Black and Asian",
+        "value_abs": 190,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "27",
+        "key": "Black and Chinese",
+        "value_abs": 17,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "28",
+        "key": "Black and White",
+        "value_abs": 354,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "29",
+        "key": "Black British",
+        "value_abs": 4600,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "30",
+        "key": "Black European",
+        "value_abs": 29,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "31",
+        "key": "Black/African American",
+        "value_abs": 70,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "32",
+        "key": "Bosnian",
+        "value_abs": 49,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "33",
+        "key": "Brazilian",
+        "value_abs": 136,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "34",
+        "key": "British Asian",
+        "value_abs": 555,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "35",
+        "key": "Burmese",
+        "value_abs": 96,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "36",
+        "key": "Cambodia",
+        "value_abs": 5,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "37",
+        "key": "Caribbean Asian",
+        "value_abs": 72,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "38",
+        "key": "Chilean",
+        "value_abs": 37,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "39",
+        "key": "Chinese and White",
+        "value_abs": 208,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "40",
+        "key": "Colombian",
+        "value_abs": 25,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "41",
+        "key": "Commonwealth of (Russian) Independent States",
+        "value_abs": 900,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "42",
+        "key": "Croatian",
+        "value_abs": 19,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "43",
+        "key": "Cuban",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "44",
+        "key": "Cypriot",
+        "value_abs": 599,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "45",
+        "key": "East African Asian",
+        "value_abs": 236,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "46",
+        "key": "Ecuadorian",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "47",
+        "key": "European Mixed",
+        "value_abs": 3156,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "48",
+        "key": "Filipino",
+        "value_abs": 789,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "49",
+        "key": "Greek",
+        "value_abs": 942,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "50",
+        "key": "Greek Cypriot",
+        "value_abs": 208,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "51",
+        "key": "Indonesian",
+        "value_abs": 225,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "52",
+        "key": "Iranian",
+        "value_abs": 2302,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "53",
+        "key": "Israeli",
+        "value_abs": 33,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "54",
+        "key": "Italian",
+        "value_abs": 902,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "55",
+        "key": "Japanese",
+        "value_abs": 258,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "56",
+        "key": "Kashmiri",
+        "value_abs": 627,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "57",
+        "key": "Korean",
+        "value_abs": 477,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "58",
+        "key": "Kosovan",
+        "value_abs": 123,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "59",
+        "key": "Kurdish",
+        "value_abs": 1630,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "60",
+        "key": "Latin/South/Central American",
+        "value_abs": 875,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "61",
+        "key": "Malaysian",
+        "value_abs": 924,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "62",
+        "key": "Mexican",
+        "value_abs": 86,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "63",
+        "key": "Moroccan",
+        "value_abs": 87,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "64",
+        "key": "Multi-ethnic islands",
+        "value_abs": 376,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "65",
+        "key": "Nepalese (includes Gurkha)",
+        "value_abs": 225,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "66",
+        "key": "Nigerian",
+        "value_abs": 91,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "67",
+        "key": "North African",
+        "value_abs": 396,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "68",
+        "key": "North American",
+        "value_abs": 662,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "69",
+        "key": "Other Eastern European",
+        "value_abs": 2559,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "70",
+        "key": "Other Middle East",
+        "value_abs": 969,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "71",
+        "key": "Other Western European",
+        "value_abs": 3941,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "72",
+        "key": "Peruvian",
+        "value_abs": 39,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "73",
+        "key": "Polish",
+        "value_abs": 5986,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "74",
+        "key": "Polynesia/Micronesia/Melanesia",
+        "value_abs": 34,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "75",
+        "key": "Panjabi",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "76",
+        "key": "Serbian",
+        "value_abs": 61,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "77",
+        "key": "Sinhalese",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "78",
+        "key": "Somali",
+        "value_abs": 1365,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "79",
+        "key": "Somalilander",
+        "value_abs": 162,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "80",
+        "key": "South Asian and Chinese",
+        "value_abs": 21,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "81",
+        "key": "Sri Lankan",
+        "value_abs": 747,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "82",
+        "key": "Taiwanese",
+        "value_abs": 68,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "83",
+        "key": "Tamil",
+        "value_abs": 81,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "84",
+        "key": "Thai",
+        "value_abs": 446,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "85",
+        "key": "Turkish",
+        "value_abs": 562,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "86",
+        "key": "Turkish Cypriot",
+        "value_abs": 20,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "87",
+        "key": "Venezuelan",
+        "value_abs": 12,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "88",
+        "key": "Vietnamese",
+        "value_abs": 1025,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "89",
+        "key": "White African",
+        "value_abs": 39,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "90",
+        "key": "White and Arab",
+        "value_abs": 262,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "91",
+        "key": "White and East Asian",
+        "value_abs": 47,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "92",
+        "key": "White and North African or Middle Eastern",
+        "value_abs": 55,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "93",
+        "key": "White and South Asian",
+        "value_abs": 74,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_574_1",
+        "dataset_description": "CT0010 - Ethnic group (write-in responses)",
+        "id": "94",
+        "key": "White Caribbean",
+        "value_abs": 23,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

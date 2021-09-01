@@ -1,0 +1,242 @@
+[
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "0",
+        "key": "All usual residents",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "100",
+        "key": "White",
+        "value_abs": 335109,
+        "value_pc": 66.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "1",
+        "key": "White: English/Welsh/Scottish/Northern Irish/British",
+        "value_abs": 298237,
+        "value_pc": 59.3,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "2",
+        "key": "White: Irish",
+        "value_abs": 11843,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "3",
+        "key": "White: Gypsy or Irish Traveller",
+        "value_abs": 509,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "4",
+        "key": "White: Other White",
+        "value_abs": 24520,
+        "value_pc": 4.9,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "200",
+        "key": "Mixed/multiple ethnic groups",
+        "value_abs": 23161,
+        "value_pc": 4.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "5",
+        "key": "Mixed/multiple ethnic groups: White and Black Caribbean",
+        "value_abs": 8877,
+        "value_pc": 1.8,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "6",
+        "key": "Mixed/multiple ethnic groups: White and Black African",
+        "value_abs": 4397,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "7",
+        "key": "Mixed/multiple ethnic groups: White and Asian",
+        "value_abs": 4791,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "8",
+        "key": "Mixed/multiple ethnic groups: Other Mixed",
+        "value_abs": 5096,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "300",
+        "key": "Asian/Asian British",
+        "value_abs": 85986,
+        "value_pc": 17.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "9",
+        "key": "Asian/Asian British: Indian",
+        "value_abs": 11417,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "300"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "10",
+        "key": "Asian/Asian British: Pakistani",
+        "value_abs": 42904,
+        "value_pc": 8.5,
+        "group_name": "Manchester",
+        "parent": "300"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "11",
+        "key": "Asian/Asian British: Bangladeshi",
+        "value_abs": 6437,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "300"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "12",
+        "key": "Asian/Asian British: Chinese",
+        "value_abs": 13539,
+        "value_pc": 2.7,
+        "group_name": "Manchester",
+        "parent": "300"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "13",
+        "key": "Asian/Asian British: Other Asian",
+        "value_abs": 11689,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "300"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "400",
+        "key": "Black/African/Caribbean/Black British",
+        "value_abs": 43484,
+        "value_pc": 8.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "14",
+        "key": "Black/African/Caribbean/Black British: African",
+        "value_abs": 25718,
+        "value_pc": 5.1,
+        "group_name": "Manchester",
+        "parent": "400"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "15",
+        "key": "Black/African/Caribbean/Black British: Caribbean",
+        "value_abs": 9642,
+        "value_pc": 1.9,
+        "group_name": "Manchester",
+        "parent": "400"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "16",
+        "key": "Black/African/Caribbean/Black British: Other Black",
+        "value_abs": 8124,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "400"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "500",
+        "key": "Other ethnic group",
+        "value_abs": 15387,
+        "value_pc": 3.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "17",
+        "key": "Other ethnic group: Arab",
+        "value_abs": 9503,
+        "value_pc": 1.9,
+        "group_name": "Manchester",
+        "parent": "500"
+    },
+    {
+        "dataset_id": "NM_608_1",
+        "dataset_description": "KS201EW - Ethnic group",
+        "id": "18",
+        "key": "Other ethnic group: Any other ethnic group",
+        "value_abs": 5884,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "500"
+    }
+]

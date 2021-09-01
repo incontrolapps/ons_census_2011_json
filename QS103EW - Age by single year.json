@@ -1,0 +1,1022 @@
+[
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "0",
+        "key": "All categories: Age",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "1",
+        "key": "Age under 1",
+        "value_abs": 7660,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "2",
+        "key": "Age 1",
+        "value_abs": 7518,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "3",
+        "key": "Age 2",
+        "value_abs": 7211,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "4",
+        "key": "Age 3",
+        "value_abs": 7213,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "5",
+        "key": "Age 4",
+        "value_abs": 6811,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "6",
+        "key": "Age 5",
+        "value_abs": 6437,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "7",
+        "key": "Age 6",
+        "value_abs": 6047,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "8",
+        "key": "Age 7",
+        "value_abs": 5575,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "9",
+        "key": "Age 8",
+        "value_abs": 5361,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "10",
+        "key": "Age 9",
+        "value_abs": 5197,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "11",
+        "key": "Age 10",
+        "value_abs": 5244,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "12",
+        "key": "Age 11",
+        "value_abs": 5291,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "13",
+        "key": "Age 12",
+        "value_abs": 5343,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "14",
+        "key": "Age 13",
+        "value_abs": 5391,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "15",
+        "key": "Age 14",
+        "value_abs": 5516,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "16",
+        "key": "Age 15",
+        "value_abs": 5603,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "17",
+        "key": "Age 16",
+        "value_abs": 5222,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "18",
+        "key": "Age 17",
+        "value_abs": 5512,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "19",
+        "key": "Age 18",
+        "value_abs": 8277,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "20",
+        "key": "Age 19",
+        "value_abs": 13688,
+        "value_pc": 2.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "21",
+        "key": "Age 20",
+        "value_abs": 15987,
+        "value_pc": 3.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "22",
+        "key": "Age 21",
+        "value_abs": 14929,
+        "value_pc": 3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "23",
+        "key": "Age 22",
+        "value_abs": 13369,
+        "value_pc": 2.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "24",
+        "key": "Age 23",
+        "value_abs": 11777,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "25",
+        "key": "Age 24",
+        "value_abs": 10936,
+        "value_pc": 2.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "26",
+        "key": "Age 25",
+        "value_abs": 11933,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "27",
+        "key": "Age 26",
+        "value_abs": 11573,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "28",
+        "key": "Age 27",
+        "value_abs": 11329,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "29",
+        "key": "Age 28",
+        "value_abs": 11046,
+        "value_pc": 2.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "30",
+        "key": "Age 29",
+        "value_abs": 10714,
+        "value_pc": 2.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "31",
+        "key": "Age 30",
+        "value_abs": 10338,
+        "value_pc": 2.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "32",
+        "key": "Age 31",
+        "value_abs": 9946,
+        "value_pc": 2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "33",
+        "key": "Age 32",
+        "value_abs": 8982,
+        "value_pc": 1.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "34",
+        "key": "Age 33",
+        "value_abs": 8155,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "35",
+        "key": "Age 34",
+        "value_abs": 7583,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "36",
+        "key": "Age 35",
+        "value_abs": 7078,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "37",
+        "key": "Age 36",
+        "value_abs": 6947,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "38",
+        "key": "Age 37",
+        "value_abs": 6666,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "39",
+        "key": "Age 38",
+        "value_abs": 6635,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "40",
+        "key": "Age 39",
+        "value_abs": 6644,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "41",
+        "key": "Age 40",
+        "value_abs": 6615,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "42",
+        "key": "Age 41",
+        "value_abs": 6453,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "43",
+        "key": "Age 42",
+        "value_abs": 6622,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "44",
+        "key": "Age 43",
+        "value_abs": 6359,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "45",
+        "key": "Age 44",
+        "value_abs": 6417,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "46",
+        "key": "Age 45",
+        "value_abs": 5940,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "47",
+        "key": "Age 46",
+        "value_abs": 6010,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "48",
+        "key": "Age 47",
+        "value_abs": 5695,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "49",
+        "key": "Age 48",
+        "value_abs": 5550,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "50",
+        "key": "Age 49",
+        "value_abs": 5442,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "51",
+        "key": "Age 50",
+        "value_abs": 5163,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "52",
+        "key": "Age 51",
+        "value_abs": 4879,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "53",
+        "key": "Age 52",
+        "value_abs": 4591,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "54",
+        "key": "Age 53",
+        "value_abs": 4745,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "55",
+        "key": "Age 54",
+        "value_abs": 4549,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "56",
+        "key": "Age 55",
+        "value_abs": 4091,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "57",
+        "key": "Age 56",
+        "value_abs": 4077,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "58",
+        "key": "Age 57",
+        "value_abs": 3810,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "59",
+        "key": "Age 58",
+        "value_abs": 3943,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "60",
+        "key": "Age 59",
+        "value_abs": 3712,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "61",
+        "key": "Age 60",
+        "value_abs": 3729,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "62",
+        "key": "Age 61",
+        "value_abs": 3590,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "63",
+        "key": "Age 62",
+        "value_abs": 3518,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "64",
+        "key": "Age 63",
+        "value_abs": 3813,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "65",
+        "key": "Age 64",
+        "value_abs": 3586,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "66",
+        "key": "Age 65",
+        "value_abs": 2689,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "67",
+        "key": "Age 66",
+        "value_abs": 2835,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "68",
+        "key": "Age 67",
+        "value_abs": 2710,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "69",
+        "key": "Age 68",
+        "value_abs": 2563,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "70",
+        "key": "Age 69",
+        "value_abs": 2394,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "71",
+        "key": "Age 70",
+        "value_abs": 2437,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "72",
+        "key": "Age 71",
+        "value_abs": 2317,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "73",
+        "key": "Age 72",
+        "value_abs": 2268,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "74",
+        "key": "Age 73",
+        "value_abs": 2335,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "75",
+        "key": "Age 74",
+        "value_abs": 2219,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "76",
+        "key": "Age 75",
+        "value_abs": 2073,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "77",
+        "key": "Age 76",
+        "value_abs": 1942,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "78",
+        "key": "Age 77",
+        "value_abs": 1813,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "79",
+        "key": "Age 78",
+        "value_abs": 1793,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "80",
+        "key": "Age 79",
+        "value_abs": 1757,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "81",
+        "key": "Age 80",
+        "value_abs": 1554,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "82",
+        "key": "Age 81",
+        "value_abs": 1536,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "83",
+        "key": "Age 82",
+        "value_abs": 1432,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "84",
+        "key": "Age 83",
+        "value_abs": 1253,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "85",
+        "key": "Age 84",
+        "value_abs": 1251,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "86",
+        "key": "Age 85",
+        "value_abs": 1079,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "87",
+        "key": "Age 86",
+        "value_abs": 939,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "88",
+        "key": "Age 87",
+        "value_abs": 857,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "89",
+        "key": "Age 88",
+        "value_abs": 705,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "90",
+        "key": "Age 89",
+        "value_abs": 646,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "91",
+        "key": "Age 90",
+        "value_abs": 603,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "92",
+        "key": "Age 91",
+        "value_abs": 483,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "93",
+        "key": "Age 92",
+        "value_abs": 254,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "94",
+        "key": "Age 93",
+        "value_abs": 236,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "95",
+        "key": "Age 94",
+        "value_abs": 147,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "96",
+        "key": "Age 95",
+        "value_abs": 128,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "97",
+        "key": "Age 96",
+        "value_abs": 95,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "98",
+        "key": "Age 97",
+        "value_abs": 79,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "99",
+        "key": "Age 98",
+        "value_abs": 34,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "100",
+        "key": "Age 99",
+        "value_abs": 32,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_503_1",
+        "dataset_description": "QS103EW - Age by single year",
+        "id": "101",
+        "key": "Age 100 and over",
+        "value_abs": 56,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

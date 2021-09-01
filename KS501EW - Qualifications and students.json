@@ -1,0 +1,132 @@
+[
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "0",
+        "key": "All categories: Highest level of qualification",
+        "value_abs": 405709,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "1",
+        "key": "No qualifications",
+        "value_abs": 93765,
+        "value_pc": 23.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "2",
+        "key": "Highest level of qualification: Level 1 qualifications",
+        "value_abs": 44981,
+        "value_pc": 11.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "3",
+        "key": "Highest level of qualification: Level 2 qualifications",
+        "value_abs": 48749,
+        "value_pc": 12,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "4",
+        "key": "Highest level of qualification: Apprenticeship",
+        "value_abs": 6902,
+        "value_pc": 1.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "5",
+        "key": "Highest level of qualification: Level 3 qualifications",
+        "value_abs": 65100,
+        "value_pc": 16,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "6",
+        "key": "Highest level of qualification: Level 4 qualifications and above",
+        "value_abs": 117243,
+        "value_pc": 28.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "7",
+        "key": "Highest level of qualification: Other qualifications",
+        "value_abs": 28969,
+        "value_pc": 7.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "8",
+        "key": "Schoolchildren and full-time students: Age 16 to 17",
+        "value_abs": 9517,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "9",
+        "key": "Schoolchildren and full-time students: Age 18 and over",
+        "value_abs": 70168,
+        "value_pc": 17.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "10",
+        "key": "Full-time students: Age 18 to 74: Economically active: In employment",
+        "value_abs": 18735,
+        "value_pc": 4.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "11",
+        "key": "Full-time students: Age 18 to 74: Economically active: Unemployed",
+        "value_abs": 6556,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_623_1",
+        "dataset_description": "KS501EW - Qualifications and students",
+        "id": "12",
+        "key": "Full-time students: Age 18 to 74: Economically inactive",
+        "value_abs": 44795,
+        "value_pc": 11,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

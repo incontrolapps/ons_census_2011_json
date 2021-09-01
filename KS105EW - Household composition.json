@@ -1,0 +1,222 @@
+[
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "0",
+        "key": "All categories: Household composition",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "100",
+        "key": "One person household",
+        "value_abs": 72255,
+        "value_pc": 35.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "1",
+        "key": "One person household: Aged 65 and over",
+        "value_abs": 18891,
+        "value_pc": 9.2,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "2",
+        "key": "One person household: Other",
+        "value_abs": 53364,
+        "value_pc": 26,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "200",
+        "key": "One family household",
+        "value_abs": 100320,
+        "value_pc": 48.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "3",
+        "key": "One family only: All aged 65 and over",
+        "value_abs": 6292,
+        "value_pc": 3.1,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "201",
+        "key": "One family only: Married or same-sex civil partnership couple",
+        "value_abs": 42986,
+        "value_pc": 21,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "4",
+        "key": "One family only: Married or same-sex civil partnership couple: No children",
+        "value_abs": 13340,
+        "value_pc": 6.5,
+        "group_name": "Manchester",
+        "parent": "201"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "5",
+        "key": "One family only: Married or same-sex civil partnership couple: Dependent children",
+        "value_abs": 22769,
+        "value_pc": 11.1,
+        "group_name": "Manchester",
+        "parent": "201"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "6",
+        "key": "One family only: Married or same-sex civil partnership couple: All children non-dependent",
+        "value_abs": 6877,
+        "value_pc": 3.4,
+        "group_name": "Manchester",
+        "parent": "201"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "202",
+        "key": "One family only: Cohabiting couple",
+        "value_abs": 22341,
+        "value_pc": 10.9,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "7",
+        "key": "One family only: Cohabiting couple: No children",
+        "value_abs": 13633,
+        "value_pc": 6.7,
+        "group_name": "Manchester",
+        "parent": "202"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "8",
+        "key": "One family only: Cohabiting couple: Dependent children",
+        "value_abs": 7747,
+        "value_pc": 3.8,
+        "group_name": "Manchester",
+        "parent": "202"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "9",
+        "key": "One family only: Cohabiting couple: All children non-dependent",
+        "value_abs": 961,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "202"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "203",
+        "key": "One family only: Lone parent",
+        "value_abs": 28701,
+        "value_pc": 14,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "10",
+        "key": "One family only: Lone parent: Dependent children",
+        "value_abs": 20272,
+        "value_pc": 9.9,
+        "group_name": "Manchester",
+        "parent": "203"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "11",
+        "key": "One family only: Lone parent: All children non-dependent",
+        "value_abs": 8429,
+        "value_pc": 4.1,
+        "group_name": "Manchester",
+        "parent": "203"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "300",
+        "key": "Other household types",
+        "value_abs": 32394,
+        "value_pc": 15.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "12",
+        "key": "Other household types: With dependent children",
+        "value_abs": 7518,
+        "value_pc": 3.7,
+        "group_name": "Manchester",
+        "parent": "300"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "13",
+        "key": "Other household types: All full-time students",
+        "value_abs": 6532,
+        "value_pc": 3.2,
+        "group_name": "Manchester",
+        "parent": "300"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "14",
+        "key": "Other household types: All aged 65 and over",
+        "value_abs": 484,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "300"
+    },
+    {
+        "dataset_id": "NM_605_1",
+        "dataset_description": "KS105EW - Household composition",
+        "id": "15",
+        "key": "Other household types: Other",
+        "value_abs": 17860,
+        "value_pc": 8.7,
+        "group_name": "Manchester",
+        "parent": "300"
+    }
+]

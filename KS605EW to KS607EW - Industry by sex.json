@@ -1,0 +1,192 @@
+[
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "0",
+        "key": "All categories: Industry",
+        "value_abs": 213705,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "1",
+        "key": "A Agriculture, forestry and fishing",
+        "value_abs": 138,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "2",
+        "key": "B Mining and quarrying",
+        "value_abs": 66,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "3",
+        "key": "C Manufacturing",
+        "value_abs": 11132,
+        "value_pc": 5.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "4",
+        "key": "D Electricity, gas, steam and air conditioning supply ",
+        "value_abs": 838,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "5",
+        "key": "E Water supply; sewerage, waste management and remediation activities",
+        "value_abs": 938,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "6",
+        "key": "F Construction",
+        "value_abs": 9962,
+        "value_pc": 4.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "7",
+        "key": "G Wholesale and retail trade; repair of motor vehicles and motor cycles",
+        "value_abs": 33550,
+        "value_pc": 15.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "8",
+        "key": "H Transport and storage",
+        "value_abs": 11444,
+        "value_pc": 5.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "9",
+        "key": "I Accommodation and food service activities",
+        "value_abs": 19694,
+        "value_pc": 9.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "10",
+        "key": "J Information and communication",
+        "value_abs": 8843,
+        "value_pc": 4.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "11",
+        "key": "K Financial and insurance activities",
+        "value_abs": 9028,
+        "value_pc": 4.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "12",
+        "key": "L Real estate activities",
+        "value_abs": 3343,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "13",
+        "key": "M Professional, scientific and technical activities",
+        "value_abs": 15942,
+        "value_pc": 7.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "14",
+        "key": "N Administrative and support service activities",
+        "value_abs": 14362,
+        "value_pc": 6.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "15",
+        "key": "O Public administration and defence; compulsory social security",
+        "value_abs": 8452,
+        "value_pc": 4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "16",
+        "key": "P Education",
+        "value_abs": 24250,
+        "value_pc": 11.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "17",
+        "key": "Q Human health and social work activities",
+        "value_abs": 30461,
+        "value_pc": 14.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_626_1",
+        "dataset_description": "KS605EW to KS607EW - Industry by sex",
+        "id": "18",
+        "key": "R, S, T, U Other",
+        "value_abs": 11262,
+        "value_pc": 5.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

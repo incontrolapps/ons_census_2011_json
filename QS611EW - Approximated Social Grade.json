@@ -1,0 +1,52 @@
+[
+    {
+        "dataset_id": "NM_566_1",
+        "dataset_description": "QS611EW - Approximated Social Grade",
+        "id": "0",
+        "key": "Approximated social grade",
+        "value_abs": 171225,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_566_1",
+        "dataset_description": "QS611EW - Approximated Social Grade",
+        "id": "1",
+        "key": "Approximated social grade AB",
+        "value_abs": 32996,
+        "value_pc": 19.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_566_1",
+        "dataset_description": "QS611EW - Approximated Social Grade",
+        "id": "2",
+        "key": "Approximated social grade C1",
+        "value_abs": 56237,
+        "value_pc": 32.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_566_1",
+        "dataset_description": "QS611EW - Approximated Social Grade",
+        "id": "3",
+        "key": "Approximated social grade C2",
+        "value_abs": 25213,
+        "value_pc": 14.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_566_1",
+        "dataset_description": "QS611EW - Approximated Social Grade",
+        "id": "4",
+        "key": "Approximated social grade DE",
+        "value_abs": 56779,
+        "value_pc": 33.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

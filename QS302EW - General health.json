@@ -1,0 +1,62 @@
+[
+    {
+        "dataset_id": "NM_531_1",
+        "dataset_description": "QS302EW - General health",
+        "id": "0",
+        "key": "All categories: General health",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_531_1",
+        "dataset_description": "QS302EW - General health",
+        "id": "1",
+        "key": "Very good health",
+        "value_abs": 245334,
+        "value_pc": 48.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_531_1",
+        "dataset_description": "QS302EW - General health",
+        "id": "2",
+        "key": "Good health",
+        "value_abs": 159452,
+        "value_pc": 31.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_531_1",
+        "dataset_description": "QS302EW - General health",
+        "id": "3",
+        "key": "Fair health",
+        "value_abs": 62651,
+        "value_pc": 12.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_531_1",
+        "dataset_description": "QS302EW - General health",
+        "id": "4",
+        "key": "Bad health",
+        "value_abs": 27014,
+        "value_pc": 5.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_531_1",
+        "dataset_description": "QS302EW - General health",
+        "id": "5",
+        "key": "Very bad health",
+        "value_abs": 8676,
+        "value_pc": 1.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

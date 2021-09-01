@@ -1,0 +1,132 @@
+[
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "0",
+        "key": "All usual residents",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "1",
+        "key": "No passport",
+        "value_abs": 77534,
+        "value_pc": 15.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "2",
+        "key": "United Kingdom",
+        "value_abs": 348887,
+        "value_pc": 69.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "3",
+        "key": "Republic of Ireland",
+        "value_abs": 8267,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "4",
+        "key": "Other Europe: EU countries",
+        "value_abs": 25570,
+        "value_pc": 5.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "5",
+        "key": "Other Europe: Non EU countries",
+        "value_abs": 1633,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "6",
+        "key": "Africa",
+        "value_abs": 12704,
+        "value_pc": 2.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "7",
+        "key": "Middle East and Asia",
+        "value_abs": 30313,
+        "value_pc": 6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "8",
+        "key": "North America and the Caribbean",
+        "value_abs": 3347,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "9",
+        "key": "Central America",
+        "value_abs": 315,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "10",
+        "key": "South America",
+        "value_abs": 750,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "11",
+        "key": "Antarctica and Oceania",
+        "value_abs": 1103,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_612_1",
+        "dataset_description": "KS205EW - Passports held",
+        "id": "12",
+        "key": "British Overseas Territories",
+        "value_abs": 63,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

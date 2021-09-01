@@ -1,0 +1,122 @@
+[
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "0",
+        "key": "All categories: Household composition (alternative child and adult defintions)",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "1",
+        "key": "One person household: Total",
+        "value_abs": 72255,
+        "value_pc": 35.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "2",
+        "key": "One person household: One person aged 65 and over",
+        "value_abs": 18891,
+        "value_pc": 9.2,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "3",
+        "key": "One person household: One person aged under 65",
+        "value_abs": 53364,
+        "value_pc": 26,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "4",
+        "key": "Other households: Total",
+        "value_abs": 132714,
+        "value_pc": 64.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "5",
+        "key": "Other households: No adults or one adult and one or more children",
+        "value_abs": 14896,
+        "value_pc": 7.3,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "6",
+        "key": "Other households: One adult aged 16 to 64 and one aged 65 and over and no children or two adults aged 65 and over and no children",
+        "value_abs": 12293,
+        "value_pc": 6,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "7",
+        "key": "Other households: Two adults and one or two children",
+        "value_abs": 21783,
+        "value_pc": 10.6,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "8",
+        "key": "Other households: Two adults aged 16 to 64 and no children",
+        "value_abs": 40685,
+        "value_pc": 19.8,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "9",
+        "key": "Other households: Two adults and three or more children",
+        "value_abs": 6138,
+        "value_pc": 3,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "10",
+        "key": "Other households: Three or more adults and one or more children",
+        "value_abs": 10860,
+        "value_pc": 5.3,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_515_1",
+        "dataset_description": "QS115EW - Household composition (alternative child and adult definition) - Households",
+        "id": "11",
+        "key": "Other households: Three or more adults and no children",
+        "value_abs": 26059,
+        "value_pc": 12.7,
+        "group_name": "Manchester",
+        "parent": "4"
+    }
+]

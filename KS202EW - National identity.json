@@ -1,0 +1,412 @@
+[
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "0",
+        "key": "All categories: National identity English",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "1",
+        "key": "English only identity",
+        "value_abs": 244541,
+        "value_pc": 48.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "2",
+        "key": "English and British only identity",
+        "value_abs": 35239,
+        "value_pc": 7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "3",
+        "key": "Other English combined background identity",
+        "value_abs": 4090,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "4",
+        "key": "No English identity",
+        "value_abs": 219257,
+        "value_pc": 43.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "5",
+        "key": "All categories: National identity Welsh",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "6",
+        "key": "Welsh only identity",
+        "value_abs": 2748,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "7",
+        "key": "Welsh and British only identity",
+        "value_abs": 537,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "8",
+        "key": "Other Welsh combined background identity",
+        "value_abs": 673,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "9",
+        "key": "No Welsh identity",
+        "value_abs": 499169,
+        "value_pc": 99.2,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "10",
+        "key": "All categories: National identity Scottish",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "11",
+        "key": "Scottish only identity",
+        "value_abs": 4056,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "12",
+        "key": "Scottish and British only identity",
+        "value_abs": 590,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "13",
+        "key": "Other Scottish combined background identity",
+        "value_abs": 551,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "14",
+        "key": "No Scottish identity",
+        "value_abs": 497930,
+        "value_pc": 99,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "15",
+        "key": "All categories: National identity Northern Irish",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "16",
+        "key": "Northern Irish only identity",
+        "value_abs": 2838,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "15"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "17",
+        "key": "Northern Irish and British only identity",
+        "value_abs": 272,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "15"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "18",
+        "key": "Other Northern Irish combined background identity",
+        "value_abs": 287,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "15"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "19",
+        "key": "No Northern Irish identity",
+        "value_abs": 499730,
+        "value_pc": 99.3,
+        "group_name": "Manchester",
+        "parent": "15"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "20",
+        "key": "All categories: National identity British",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "21",
+        "key": "British only identity",
+        "value_abs": 118810,
+        "value_pc": 23.6,
+        "group_name": "Manchester",
+        "parent": "20"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "22",
+        "key": "British and any other identity",
+        "value_abs": 41993,
+        "value_pc": 8.3,
+        "group_name": "Manchester",
+        "parent": "20"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "23",
+        "key": "No British identity",
+        "value_abs": 342324,
+        "value_pc": 68,
+        "group_name": "Manchester",
+        "parent": "20"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "24",
+        "key": "All categories: National identity Cornish",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "25",
+        "key": "Cornish only identity",
+        "value_abs": 25,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "24"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "26",
+        "key": "Cornish and British only identity",
+        "value_abs": 8,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "24"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "27",
+        "key": "Cornish and at least one of English/Welsh/Scottish/Northern Irish identities (with or without British)",
+        "value_abs": 9,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "24"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "28",
+        "key": "No Cornish identity",
+        "value_abs": 503085,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": "24"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "29",
+        "key": "All categories: National identity Irish",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "30",
+        "key": "Irish only identity",
+        "value_abs": 8020,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "31",
+        "key": "Irish and British only identity",
+        "value_abs": 195,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "32",
+        "key": "Irish and Northern Irish only identity",
+        "value_abs": 72,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "33",
+        "key": "Irish, Northern Irish and British only identity",
+        "value_abs": 18,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "34",
+        "key": "Irish and at least one of English/Welsh/Scottish identities (with or without British)",
+        "value_abs": 390,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "35",
+        "key": "Irish, Northern Irish and at least one of English/Welsh/Scottish identities (with or without British)",
+        "value_abs": 8,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "36",
+        "key": "No Irish identity",
+        "value_abs": 494424,
+        "value_pc": 98.3,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "37",
+        "key": "All categories: National identity Other",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "38",
+        "key": "Other identities only",
+        "value_abs": 85324,
+        "value_pc": 17,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "39",
+        "key": "Other identities and at least one of English/Welsh/Scottish/Northern Irish/British only",
+        "value_abs": 6894,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_609_1",
+        "dataset_description": "KS202EW - National identity",
+        "id": "40",
+        "key": "At least one of English/Welsh/Scottish/Northern Irish/British identities only",
+        "value_abs": 410909,
+        "value_pc": 81.7,
+        "group_name": "Manchester",
+        "parent": "37"
+    }
+]

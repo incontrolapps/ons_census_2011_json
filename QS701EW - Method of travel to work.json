@@ -1,0 +1,132 @@
+[
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "0",
+        "key": "All categories: Method of travel to work",
+        "value_abs": 382932,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "1",
+        "key": "Work mainly at or from home",
+        "value_abs": 7288,
+        "value_pc": 1.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "2",
+        "key": "Underground, metro, light rail, tram",
+        "value_abs": 2897,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "3",
+        "key": "Train",
+        "value_abs": 5938,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "4",
+        "key": "Bus, minibus or coach",
+        "value_abs": 47727,
+        "value_pc": 12.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "5",
+        "key": "Taxi",
+        "value_abs": 1914,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "6",
+        "key": "Motorcycle, scooter or moped",
+        "value_abs": 855,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "7",
+        "key": "Driving a car or van",
+        "value_abs": 96210,
+        "value_pc": 25.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "8",
+        "key": "Passenger in a car or van",
+        "value_abs": 10056,
+        "value_pc": 2.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "9",
+        "key": "Bicycle",
+        "value_abs": 8708,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "10",
+        "key": "On foot",
+        "value_abs": 30714,
+        "value_pc": 8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "11",
+        "key": "Other method of travel to work",
+        "value_abs": 1398,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_568_1",
+        "dataset_description": "QS701EW - Method of travel to work",
+        "id": "12",
+        "key": "Not in employment",
+        "value_abs": 169227,
+        "value_pc": 44.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "dataset_id": "NM_624_1",
+        "dataset_description": "KS601EW to KS603EW - Economic activity by sex",
+        "id": "0",
+        "key": "All persons",
+        "value_abs": 382932,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_624_1",
+        "dataset_description": "KS601EW to KS603EW - Economic activity by sex",
+        "id": "1",
+        "key": "Males",
+        "value_abs": 243224,
+        "value_pc": 63.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_624_1",
+        "dataset_description": "KS601EW to KS603EW - Economic activity by sex",
+        "id": "2",
+        "key": "Females",
+        "value_abs": 194093,
+        "value_pc": 50.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

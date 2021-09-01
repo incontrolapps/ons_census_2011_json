@@ -1,0 +1,52 @@
+[
+    {
+        "dataset_id": "NM_506_1",
+        "dataset_description": "QS106EW - Second address",
+        "id": "0",
+        "key": "Any address",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_506_1",
+        "dataset_description": "QS106EW - Second address",
+        "id": "1",
+        "key": "No second address",
+        "value_abs": 449293,
+        "value_pc": 89.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_506_1",
+        "dataset_description": "QS106EW - Second address",
+        "id": "4",
+        "key": "Second address (total)",
+        "value_abs": 53834,
+        "value_pc": 10.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_506_1",
+        "dataset_description": "QS106EW - Second address",
+        "id": "2",
+        "key": "Second address within the UK",
+        "value_abs": 41257,
+        "value_pc": 8.2,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_506_1",
+        "dataset_description": "QS106EW - Second address",
+        "id": "3",
+        "key": "Second address outside the UK",
+        "value_abs": 12577,
+        "value_pc": 2.5,
+        "group_name": "Manchester",
+        "parent": "4"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "0",
+        "key": "All categories: Age of arrival in the UK",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "1",
+        "key": "Born in the UK",
+        "value_abs": 376066,
+        "value_pc": 74.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "2",
+        "key": "Age of arrival in the UK: 0 to 4",
+        "value_abs": 13449,
+        "value_pc": 2.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "3",
+        "key": "Age of arrival in the UK: 5 to 7",
+        "value_abs": 5829,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "4",
+        "key": "Age of arrival in the UK: 8 to 9",
+        "value_abs": 3602,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "5",
+        "key": "Age of arrival in the UK: 10 to 14",
+        "value_abs": 8661,
+        "value_pc": 1.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "6",
+        "key": "Age of arrival in the UK: 15",
+        "value_abs": 2279,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "7",
+        "key": "Age of arrival in the UK: 16 to 17",
+        "value_abs": 6990,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "8",
+        "key": "Age of arrival in the UK: 18 to 19",
+        "value_abs": 11189,
+        "value_pc": 2.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "9",
+        "key": "Age of arrival in the UK: 20 to 24",
+        "value_abs": 26929,
+        "value_pc": 5.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "10",
+        "key": "Age of arrival in the UK: 25 to 29",
+        "value_abs": 21144,
+        "value_pc": 4.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "11",
+        "key": "Age of arrival in the UK: 30 to 44",
+        "value_abs": 21988,
+        "value_pc": 4.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "12",
+        "key": "Age of arrival in the UK: 45 to 59",
+        "value_abs": 3933,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "13",
+        "key": "Age of arrival in the UK: 60 to 64",
+        "value_abs": 451,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "14",
+        "key": "Age of arrival in the UK: 65 to 74",
+        "value_abs": 460,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "15",
+        "key": "Age of arrival in the UK: 75 to 84",
+        "value_abs": 135,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "16",
+        "key": "Age of arrival in the UK: 85 to 89",
+        "value_abs": 16,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_570_1",
+        "dataset_description": "QS802EW - Age of arrival in the UK",
+        "id": "17",
+        "key": "Age of arrival in the UK: 90 and over",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

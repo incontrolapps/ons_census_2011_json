@@ -1,0 +1,102 @@
+[
+    {
+        "dataset_id": "NM_604_1",
+        "dataset_description": "KS104EW - Living arrangements",
+        "id": "0",
+        "key": "All categories: Living arrangements",
+        "value_abs": 383791,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_604_1",
+        "dataset_description": "KS104EW - Living arrangements",
+        "id": "100",
+        "key": "Living in a couple",
+        "value_abs": 160050,
+        "value_pc": 41.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_604_1",
+        "dataset_description": "KS104EW - Living arrangements",
+        "id": "1",
+        "key": "Living in a couple: Married or in a registered same-sex civil partnership",
+        "value_abs": 109251,
+        "value_pc": 28.5,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_604_1",
+        "dataset_description": "KS104EW - Living arrangements",
+        "id": "2",
+        "key": "Living in a couple: Cohabiting",
+        "value_abs": 50799,
+        "value_pc": 13.2,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_604_1",
+        "dataset_description": "KS104EW - Living arrangements",
+        "id": "200",
+        "key": "Not living in a couple",
+        "value_abs": 223741,
+        "value_pc": 58.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_604_1",
+        "dataset_description": "KS104EW - Living arrangements",
+        "id": "3",
+        "key": "Not living in a couple: Single (never married or never registered a same-sex civil partnership)",
+        "value_abs": 161923,
+        "value_pc": 42.2,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_604_1",
+        "dataset_description": "KS104EW - Living arrangements",
+        "id": "4",
+        "key": "Not living in a couple: Married or in a registered same-sex civil partnership",
+        "value_abs": 8879,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_604_1",
+        "dataset_description": "KS104EW - Living arrangements",
+        "id": "5",
+        "key": "Not living in a couple: Separated (but still legally married or still legally in a same-sex civil partnership)",
+        "value_abs": 10981,
+        "value_pc": 2.9,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_604_1",
+        "dataset_description": "KS104EW - Living arrangements",
+        "id": "6",
+        "key": "Not living in a couple: Divorced or formerly in a same-sex civil partnership which is now legally dissolved",
+        "value_abs": 23152,
+        "value_pc": 6,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_604_1",
+        "dataset_description": "KS104EW - Living arrangements",
+        "id": "7",
+        "key": "Not living in a couple: Widowed or surviving partner from a same-sex civil partnership",
+        "value_abs": 18806,
+        "value_pc": 4.9,
+        "group_name": "Manchester",
+        "parent": "200"
+    }
+]

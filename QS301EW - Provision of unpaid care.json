@@ -1,0 +1,52 @@
+[
+    {
+        "dataset_id": "NM_530_1",
+        "dataset_description": "QS301EW - Provision of unpaid care",
+        "id": "0",
+        "key": "All categories: Provision of unpaid care",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_530_1",
+        "dataset_description": "QS301EW - Provision of unpaid care",
+        "id": "1",
+        "key": "Provides no unpaid care",
+        "value_abs": 460487,
+        "value_pc": 91.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_530_1",
+        "dataset_description": "QS301EW - Provision of unpaid care",
+        "id": "2",
+        "key": "Provides 1 to 19 hours unpaid care a week",
+        "value_abs": 23109,
+        "value_pc": 4.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_530_1",
+        "dataset_description": "QS301EW - Provision of unpaid care",
+        "id": "3",
+        "key": "Provides 20 to 49 hours unpaid care a week",
+        "value_abs": 7568,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_530_1",
+        "dataset_description": "QS301EW - Provision of unpaid care",
+        "id": "4",
+        "key": "Provides 50 or more hours unpaid care a week",
+        "value_abs": 11963,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

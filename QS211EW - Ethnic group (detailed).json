@@ -1,0 +1,2512 @@
+[
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "0",
+        "key": "All categories: Ethnic group",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "1",
+        "key": "White: English/Welsh/Scottish/Northern Irish/British",
+        "value_abs": 298237,
+        "value_pc": 59.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "2",
+        "key": "White: Irish",
+        "value_abs": 11843,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "3",
+        "key": "White: Gypsy or Irish Traveller",
+        "value_abs": 509,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "4",
+        "key": "White: Afghan",
+        "value_abs": 66,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "5",
+        "key": "White: Albanian",
+        "value_abs": 101,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "6",
+        "key": "White: Anglo Indian",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "7",
+        "key": "White: Argentinian",
+        "value_abs": 15,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "8",
+        "key": "White: Australian/New Zealander",
+        "value_abs": 388,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "9",
+        "key": "White: Baltic States",
+        "value_abs": 986,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "10",
+        "key": "White: Bosnian",
+        "value_abs": 45,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "11",
+        "key": "White: Brazilian",
+        "value_abs": 91,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "12",
+        "key": "White: British Asian",
+        "value_abs": 19,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "13",
+        "key": "White: Burmese",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "14",
+        "key": "White: Chilean",
+        "value_abs": 24,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "15",
+        "key": "White: Colombian",
+        "value_abs": 12,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "16",
+        "key": "White: Commonwealth of (Russian) Independent States",
+        "value_abs": 698,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "17",
+        "key": "White: Croatian",
+        "value_abs": 19,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "18",
+        "key": "White: Cuban",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "19",
+        "key": "White: Cypriot (part not stated)",
+        "value_abs": 547,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "20",
+        "key": "White: Ecuadorian",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "21",
+        "key": "White: European Mixed",
+        "value_abs": 3012,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "22",
+        "key": "White: Filipino",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "23",
+        "key": "White: Greek",
+        "value_abs": 877,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "24",
+        "key": "White: Greek Cypriot",
+        "value_abs": 155,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "25",
+        "key": "White: Iranian",
+        "value_abs": 165,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "26",
+        "key": "White: Israeli",
+        "value_abs": 20,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "27",
+        "key": "White: Italian",
+        "value_abs": 826,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "28",
+        "key": "White: Japanese",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "29",
+        "key": "White: Kashmiri",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "30",
+        "key": "White: Kosovan",
+        "value_abs": 112,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "31",
+        "key": "White: Kurdish",
+        "value_abs": 99,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "32",
+        "key": "White: Latin/South/Central American",
+        "value_abs": 180,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "33",
+        "key": "White: Malaysian",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "34",
+        "key": "White: Mexican",
+        "value_abs": 16,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "35",
+        "key": "White: Moroccan",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "36",
+        "key": "White: Multi-ethnic islands",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "37",
+        "key": "White: Nepalese (includes Gurkha)",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "38",
+        "key": "White: Nigerian",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "39",
+        "key": "White: North African",
+        "value_abs": 89,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "40",
+        "key": "White: North American",
+        "value_abs": 576,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "41",
+        "key": "White: Other Eastern European",
+        "value_abs": 2459,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "42",
+        "key": "White: Other Middle East",
+        "value_abs": 82,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "43",
+        "key": "White: Other Western European",
+        "value_abs": 3437,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "44",
+        "key": "White: Peruvian",
+        "value_abs": 5,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "45",
+        "key": "White: Polish",
+        "value_abs": 5932,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "46",
+        "key": "White: Polynesia/Micronesia/Melanesia",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "47",
+        "key": "White: Serbian",
+        "value_abs": 56,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "48",
+        "key": "White: Somali",
+        "value_abs": 30,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "49",
+        "key": "White: Somalilander",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "50",
+        "key": "White: Sri Lankan",
+        "value_abs": 3,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "51",
+        "key": "White: Tamil",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "52",
+        "key": "White: Thai",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "53",
+        "key": "White: Turkish",
+        "value_abs": 350,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "54",
+        "key": "White: Turkish Cypriot",
+        "value_abs": 10,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "55",
+        "key": "White: Venezuelan",
+        "value_abs": 8,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "56",
+        "key": "White: Vietnamese",
+        "value_abs": 9,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "57",
+        "key": "White: White African",
+        "value_abs": 17,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "58",
+        "key": "White: White Caribbean",
+        "value_abs": 9,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "59",
+        "key": "White: Any other ethnic group",
+        "value_abs": 2934,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "60",
+        "key": "Mixed/multiple ethnic group: White and Black Caribbean",
+        "value_abs": 8877,
+        "value_pc": 1.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "61",
+        "key": "Mixed/multiple ethnic group: White and Black African",
+        "value_abs": 4397,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "62",
+        "key": "Mixed/multiple ethnic group: White and Asian",
+        "value_abs": 4791,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "63",
+        "key": "Mixed/multiple ethnic group: Afghan",
+        "value_abs": 32,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "64",
+        "key": "Mixed/multiple ethnic group: African/Arab",
+        "value_abs": 9,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "65",
+        "key": "Mixed/multiple ethnic group: Albanian",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "66",
+        "key": "Mixed/multiple ethnic group: Anglo Indian",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "67",
+        "key": "Mixed/multiple ethnic group: Australian/New Zealander",
+        "value_abs": 3,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "68",
+        "key": "Mixed/multiple ethnic group: Baltic States",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "69",
+        "key": "Mixed/multiple ethnic group: Black and Asian",
+        "value_abs": 103,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "70",
+        "key": "Mixed/multiple ethnic group: Black and Chinese",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "71",
+        "key": "Mixed/multiple ethnic group: Black and White",
+        "value_abs": 285,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "72",
+        "key": "Mixed/multiple ethnic group: Black British",
+        "value_abs": 110,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "73",
+        "key": "Mixed/multiple ethnic group: Black European",
+        "value_abs": 5,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "74",
+        "key": "Mixed/multiple ethnic group: Black/African American",
+        "value_abs": 28,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "75",
+        "key": "Mixed/multiple ethnic group: Brazilian",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "76",
+        "key": "Mixed/multiple ethnic group: British Asian",
+        "value_abs": 19,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "77",
+        "key": "Mixed/multiple ethnic group: Burmese",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "78",
+        "key": "Mixed/multiple ethnic group: Caribbean Asian",
+        "value_abs": 35,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "79",
+        "key": "Mixed/multiple ethnic group: Chilean",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "80",
+        "key": "Mixed/multiple ethnic group: Chinese and White",
+        "value_abs": 193,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "81",
+        "key": "Mixed/multiple ethnic group: Colombian",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "82",
+        "key": "Mixed/multiple ethnic group: Commonwealth of (Russian) Independent States",
+        "value_abs": 8,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "83",
+        "key": "Mixed/multiple ethnic group: Cuban",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "84",
+        "key": "Mixed/multiple ethnic group: Cypriot (part not stated)",
+        "value_abs": 10,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "85",
+        "key": "Mixed/multiple ethnic group: East African Asian",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "86",
+        "key": "Mixed/multiple ethnic group: Ecuadorian",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "87",
+        "key": "Mixed/multiple ethnic group: European Mixed",
+        "value_abs": 83,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "88",
+        "key": "Mixed/multiple ethnic group: Filipino",
+        "value_abs": 34,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "89",
+        "key": "Mixed/multiple ethnic group: Greek",
+        "value_abs": 17,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "90",
+        "key": "Mixed/multiple ethnic group: Greek Cypriot",
+        "value_abs": 7,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "91",
+        "key": "Mixed/multiple ethnic group: Indonesian",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "92",
+        "key": "Mixed/multiple ethnic group: Iranian",
+        "value_abs": 82,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "93",
+        "key": "Mixed/multiple ethnic group: Israeli",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "94",
+        "key": "Mixed/multiple ethnic group: Italian",
+        "value_abs": 35,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "95",
+        "key": "Mixed/multiple ethnic group: Japanese",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "96",
+        "key": "Mixed/multiple ethnic group: Kashmiri",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "97",
+        "key": "Mixed/multiple ethnic group: Korean",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "98",
+        "key": "Mixed/multiple ethnic group: Kosovan",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "99",
+        "key": "Mixed/multiple ethnic group: Kurdish",
+        "value_abs": 31,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "100",
+        "key": "Mixed/multiple ethnic group: Latin/South/Central American",
+        "value_abs": 176,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "101",
+        "key": "Mixed/multiple ethnic group: Malaysian",
+        "value_abs": 7,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "102",
+        "key": "Mixed/multiple ethnic group: Mexican",
+        "value_abs": 16,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "103",
+        "key": "Mixed/multiple ethnic group: Moroccan",
+        "value_abs": 8,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "104",
+        "key": "Mixed/multiple ethnic group: Multi-ethnic islands",
+        "value_abs": 58,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "105",
+        "key": "Mixed/multiple ethnic group: Nepalese (includes Gurkha)",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "106",
+        "key": "Mixed/multiple ethnic group: Nigerian",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "107",
+        "key": "Mixed/multiple ethnic group: North African",
+        "value_abs": 55,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "108",
+        "key": "Mixed/multiple ethnic group: North American",
+        "value_abs": 22,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "109",
+        "key": "Mixed/multiple ethnic group: Other Eastern European",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "110",
+        "key": "Mixed/multiple ethnic group: Other Middle East",
+        "value_abs": 21,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "111",
+        "key": "Mixed/multiple ethnic group: Other Western European",
+        "value_abs": 152,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "112",
+        "key": "Mixed/multiple ethnic group: Peruvian",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "113",
+        "key": "Mixed/multiple ethnic group: Polish",
+        "value_abs": 48,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "114",
+        "key": "Mixed/multiple ethnic group: Polynesia/Micronesia/Melanesia",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "115",
+        "key": "Mixed/multiple ethnic group: Somali",
+        "value_abs": 22,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "116",
+        "key": "Mixed/multiple ethnic group: South Asian and Chinese",
+        "value_abs": 17,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "117",
+        "key": "Mixed/multiple ethnic group: Sri Lankan",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "118",
+        "key": "Mixed/multiple ethnic group: Tamil",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "119",
+        "key": "Mixed/multiple ethnic group: Thai",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "120",
+        "key": "Mixed/multiple ethnic group: Turkish",
+        "value_abs": 19,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "121",
+        "key": "Mixed/multiple ethnic group: Turkish Cypriot",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "122",
+        "key": "Mixed/multiple ethnic group: Venezuelan",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "123",
+        "key": "Mixed/multiple ethnic group: Vietnamese",
+        "value_abs": 11,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "124",
+        "key": "Mixed/multiple ethnic group: White African",
+        "value_abs": 19,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "125",
+        "key": "Mixed/multiple ethnic group: White and Arab",
+        "value_abs": 231,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "126",
+        "key": "Mixed/multiple ethnic group: White and East Asian",
+        "value_abs": 42,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "127",
+        "key": "Mixed/multiple ethnic group: White and North African or Middle Eastern",
+        "value_abs": 45,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "128",
+        "key": "Mixed/multiple ethnic group: White and South Asian",
+        "value_abs": 47,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "129",
+        "key": "Mixed/multiple ethnic group: White Caribbean",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "130",
+        "key": "Mixed/multiple ethnic group: Any other ethnic group",
+        "value_abs": 2820,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "131",
+        "key": "Asian/Asian British: Indian or British Indian",
+        "value_abs": 11417,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "132",
+        "key": "Asian/Asian British: Pakistani or British Pakistani",
+        "value_abs": 42904,
+        "value_pc": 8.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "133",
+        "key": "Asian/Asian British: Bangladeshi, British Bangladeshi",
+        "value_abs": 6437,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "134",
+        "key": "Asian/Asian British: Chinese",
+        "value_abs": 13539,
+        "value_pc": 2.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "135",
+        "key": "Asian/Asian British: Afghan",
+        "value_abs": 1732,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "136",
+        "key": "Asian/Asian British: Anglo Indian",
+        "value_abs": 19,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "137",
+        "key": "Asian/Asian British: British Asian",
+        "value_abs": 514,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "138",
+        "key": "Asian/Asian British: Burmese",
+        "value_abs": 91,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "139",
+        "key": "Asian/Asian British: Cambodia",
+        "value_abs": 5,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "140",
+        "key": "Asian/Asian British: Caribbean Asian",
+        "value_abs": 12,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "141",
+        "key": "Asian/Asian British: Commonwealth of (Russian) Independent States",
+        "value_abs": 115,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "142",
+        "key": "Asian/Asian British: East African Asian",
+        "value_abs": 206,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "143",
+        "key": "Asian/Asian British: European Mixed",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "144",
+        "key": "Asian/Asian British: Filipino",
+        "value_abs": 695,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "145",
+        "key": "Asian/Asian British: Indonesian",
+        "value_abs": 181,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "146",
+        "key": "Asian/Asian British: Iranian",
+        "value_abs": 1208,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "147",
+        "key": "Asian/Asian British: Italian",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "148",
+        "key": "Asian/Asian British: Japanese",
+        "value_abs": 251,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "149",
+        "key": "Asian/Asian British: Kashmiri",
+        "value_abs": 615,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "150",
+        "key": "Asian/Asian British: Korean",
+        "value_abs": 472,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "151",
+        "key": "Asian/Asian British: Kurdish",
+        "value_abs": 318,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "152",
+        "key": "Asian/Asian British: Latin/South/Central American",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "153",
+        "key": "Asian/Asian British: Malaysian",
+        "value_abs": 848,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "154",
+        "key": "Asian/Asian British: Multi-ethnic islands",
+        "value_abs": 143,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "155",
+        "key": "Asian/Asian British: Nepalese (includes Gurkha)",
+        "value_abs": 220,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "156",
+        "key": "Asian/Asian British: North American",
+        "value_abs": 5,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "157",
+        "key": "Asian/Asian British: Other Eastern European",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "158",
+        "key": "Asian/Asian British: Other Middle East",
+        "value_abs": 335,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "159",
+        "key": "Asian/Asian British: Other Western European",
+        "value_abs": 45,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "160",
+        "key": "Asian/Asian British: Polynesia/Micronesia/Melanesia",
+        "value_abs": 7,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "161",
+        "key": "Asian/Asian British: Panjabi",
+        "value_abs": 11,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "162",
+        "key": "Asian/Asian British: Sinhalese",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "163",
+        "key": "Asian/Asian British: Somali",
+        "value_abs": 3,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "164",
+        "key": "Asian/Asian British: Sri Lankan",
+        "value_abs": 730,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "165",
+        "key": "Asian/Asian British: Taiwanese",
+        "value_abs": 66,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "166",
+        "key": "Asian/Asian British: Tamil",
+        "value_abs": 81,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "167",
+        "key": "Asian/Asian British: Thai",
+        "value_abs": 423,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "168",
+        "key": "Asian/Asian British: Turkish",
+        "value_abs": 30,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "169",
+        "key": "Asian/Asian British: Turkish Cypriot",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "170",
+        "key": "Asian/Asian British: Vietnamese",
+        "value_abs": 969,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "171",
+        "key": "Asian/Asian British: Any other ethnic group",
+        "value_abs": 1311,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "172",
+        "key": "Black/African/Caribbean/Black British: African",
+        "value_abs": 25718,
+        "value_pc": 5.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "173",
+        "key": "Black/African/Caribbean/Black British: Caribbean",
+        "value_abs": 9642,
+        "value_pc": 1.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "174",
+        "key": "Black/African/Caribbean/Black British: Afghan",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "175",
+        "key": "Black/African/Caribbean/Black British: African/Arab",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "176",
+        "key": "Black/African/Caribbean/Black British: Black British",
+        "value_abs": 4339,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "177",
+        "key": "Black/African/Caribbean/Black British: Black European",
+        "value_abs": 11,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "178",
+        "key": "Black/African/Caribbean/Black British: Black/African American",
+        "value_abs": 37,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "179",
+        "key": "Black/African/Caribbean/Black British: Brazilian",
+        "value_abs": 7,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "180",
+        "key": "Black/African/Caribbean/Black British: Caribbean Asian",
+        "value_abs": 25,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "181",
+        "key": "Black/African/Caribbean/Black British: Colombian",
+        "value_abs": 7,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "182",
+        "key": "Black/African/Caribbean/Black British: Cuban",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "183",
+        "key": "Black/African/Caribbean/Black British: European Mixed",
+        "value_abs": 15,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "184",
+        "key": "Black/African/Caribbean/Black British: Filipino",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "185",
+        "key": "Black/African/Caribbean/Black British: Italian",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "186",
+        "key": "Black/African/Caribbean/Black British: Latin/South/Central American",
+        "value_abs": 18,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "187",
+        "key": "Black/African/Caribbean/Black British: Moroccan",
+        "value_abs": 8,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "188",
+        "key": "Black/African/Caribbean/Black British: Multi-ethnic islands",
+        "value_abs": 109,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "189",
+        "key": "Black/African/Caribbean/Black British: Nigerian",
+        "value_abs": 76,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "190",
+        "key": "Black/African/Caribbean/Black British: North African",
+        "value_abs": 62,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "191",
+        "key": "Black/African/Caribbean/Black British: North American",
+        "value_abs": 36,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "192",
+        "key": "Black/African/Caribbean/Black British: Other Western European",
+        "value_abs": 177,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "193",
+        "key": "Black/African/Caribbean/Black British: Polynesia/Micronesia/Melanesia",
+        "value_abs": 5,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "194",
+        "key": "Black/African/Caribbean/Black British: Somali",
+        "value_abs": 1034,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "195",
+        "key": "Black/African/Caribbean/Black British: Somalilander",
+        "value_abs": 116,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "196",
+        "key": "Black/African/Caribbean/Black British: Sri Lankan",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "197",
+        "key": "Black/African/Caribbean/Black British: Any other ethnic group",
+        "value_abs": 2025,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "198",
+        "key": "Other ethnic group: Arab",
+        "value_abs": 9503,
+        "value_pc": 1.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "199",
+        "key": "Other ethnic group: Afghan",
+        "value_abs": 83,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "200",
+        "key": "Other ethnic group: African/Arab",
+        "value_abs": 102,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "201",
+        "key": "Other ethnic group: Albanian",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "202",
+        "key": "Other ethnic group: Anglo Indian",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "203",
+        "key": "Other ethnic group: Australian/New Zealander",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "204",
+        "key": "Other ethnic group: Baltic States",
+        "value_abs": 24,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "205",
+        "key": "Other ethnic group: Bosnian",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "206",
+        "key": "Other ethnic group: Brazilian",
+        "value_abs": 25,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "207",
+        "key": "Other ethnic group: Burmese",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "208",
+        "key": "Other ethnic group: Caribbean Asian",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "209",
+        "key": "Other ethnic group: Chilean",
+        "value_abs": 9,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "210",
+        "key": "Other ethnic group: Colombian",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "211",
+        "key": "Other ethnic group: Commonwealth of (Russian) Independent States",
+        "value_abs": 79,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "212",
+        "key": "Other ethnic group: Cypriot (part not stated)",
+        "value_abs": 42,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "213",
+        "key": "Other ethnic group: Ecuadorian",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "214",
+        "key": "Other ethnic group: European Mixed",
+        "value_abs": 40,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "215",
+        "key": "Other ethnic group: Filipino",
+        "value_abs": 58,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "216",
+        "key": "Other ethnic group: Greek",
+        "value_abs": 48,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "217",
+        "key": "Other ethnic group: Greek Cypriot",
+        "value_abs": 46,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "218",
+        "key": "Other ethnic group: Indonesian",
+        "value_abs": 42,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "219",
+        "key": "Other ethnic group: Iranian",
+        "value_abs": 838,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "220",
+        "key": "Other ethnic group: Israeli",
+        "value_abs": 11,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "221",
+        "key": "Other ethnic group: Italian",
+        "value_abs": 22,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "222",
+        "key": "Other ethnic group: Japanese",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "223",
+        "key": "Other ethnic group: Kashmiri",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "224",
+        "key": "Other ethnic group: Korean",
+        "value_abs": 3,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "225",
+        "key": "Other ethnic group: Kosovan",
+        "value_abs": 11,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "226",
+        "key": "Other ethnic group: Kurdish",
+        "value_abs": 1182,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "227",
+        "key": "Other ethnic group: Latin/South/Central American",
+        "value_abs": 499,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "228",
+        "key": "Other ethnic group: Malaysian",
+        "value_abs": 56,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "229",
+        "key": "Other ethnic group: Mexican",
+        "value_abs": 54,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "230",
+        "key": "Other ethnic group: Moroccan",
+        "value_abs": 51,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "231",
+        "key": "Other ethnic group: Multi-ethnic islands",
+        "value_abs": 62,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "232",
+        "key": "Other ethnic group: Nepalese (includes Gurkha)",
+        "value_abs": 5,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "233",
+        "key": "Other ethnic group: North African",
+        "value_abs": 189,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "234",
+        "key": "Other ethnic group: North American",
+        "value_abs": 23,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "235",
+        "key": "Other ethnic group: Other Eastern European",
+        "value_abs": 86,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "236",
+        "key": "Other ethnic group: Other Middle East",
+        "value_abs": 531,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "237",
+        "key": "Other ethnic group: Other Western European",
+        "value_abs": 130,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "238",
+        "key": "Other ethnic group: Peruvian",
+        "value_abs": 21,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "239",
+        "key": "Other ethnic group: Polish",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "240",
+        "key": "Other ethnic group: Polynesia/Micronesia/Melanesia",
+        "value_abs": 20,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "241",
+        "key": "Other ethnic group: Panjabi",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "242",
+        "key": "Other ethnic group: Somali",
+        "value_abs": 276,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "243",
+        "key": "Other ethnic group: Somalilander",
+        "value_abs": 44,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "244",
+        "key": "Other ethnic group: Sri Lankan",
+        "value_abs": 10,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "245",
+        "key": "Other ethnic group: Tamil",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "246",
+        "key": "Other ethnic group: Thai",
+        "value_abs": 15,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "247",
+        "key": "Other ethnic group: Turkish",
+        "value_abs": 163,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "248",
+        "key": "Other ethnic group: Turkish Cypriot",
+        "value_abs": 9,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "249",
+        "key": "Other ethnic group: Vietnamese",
+        "value_abs": 36,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_575_1",
+        "dataset_description": "QS211EW - Ethnic group (detailed)",
+        "id": "250",
+        "key": "Other ethnic group: Any other ethnic group",
+        "value_abs": 909,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

@@ -1,0 +1,1252 @@
+[
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "0",
+        "key": "All categories: Occupation",
+        "value_abs": 213705,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "1",
+        "key": "1. Managers, directors and senior officials",
+        "value_abs": 15977,
+        "value_pc": 7.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "2",
+        "key": "11. Corporate managers and directors",
+        "value_abs": 9383,
+        "value_pc": 4.4,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "3",
+        "key": "111. Chief Executives and Senior Officials",
+        "value_abs": 243,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "4",
+        "key": "112. Production Managers and Directors",
+        "value_abs": 1621,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "5",
+        "key": "113. Functional Managers and Directors",
+        "value_abs": 2552,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "6",
+        "key": "115. Financial Institution Managers and Directors",
+        "value_abs": 613,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "7",
+        "key": "116. Managers and Directors in Transport and Logistics",
+        "value_abs": 687,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "8",
+        "key": "117. Senior Officers in Protective Services",
+        "value_abs": 127,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "9",
+        "key": "118. Health and Social Services Managers and Directors",
+        "value_abs": 661,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "10",
+        "key": "119. Managers and Directors in Retail and Wholesale",
+        "value_abs": 2879,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "11",
+        "key": "12. Other managers and proprietors",
+        "value_abs": 6594,
+        "value_pc": 3.1,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "12",
+        "key": "121. Managers and Proprietors in Agriculture Related Services",
+        "value_abs": 29,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "13",
+        "key": "122. Managers and Proprietors in Hospitality and Leisure Services",
+        "value_abs": 2520,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "14",
+        "key": "124. Managers and Proprietors in Health and Care Services",
+        "value_abs": 341,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "15",
+        "key": "125. Managers and Proprietors in Other Services",
+        "value_abs": 3704,
+        "value_pc": 1.7,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "16",
+        "key": "2. Professional occupations",
+        "value_abs": 42788,
+        "value_pc": 20,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "17",
+        "key": "21. Science research, engineering and technology professionals",
+        "value_abs": 9582,
+        "value_pc": 4.5,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "18",
+        "key": "211. Natural and Social Science Professionals",
+        "value_abs": 2025,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "17"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "19",
+        "key": "212. Engineering Professionals",
+        "value_abs": 2411,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "17"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "20",
+        "key": "213. Information Technology and Telecommunications Professionals",
+        "value_abs": 4621,
+        "value_pc": 2.2,
+        "group_name": "Manchester",
+        "parent": "17"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "21",
+        "key": "214. Conservation and Environment Professionals",
+        "value_abs": 307,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "17"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "22",
+        "key": "215. Research and Development Managers",
+        "value_abs": 218,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "17"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "23",
+        "key": "22. Health professionals",
+        "value_abs": 10906,
+        "value_pc": 5.1,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "24",
+        "key": "221. Health Professionals",
+        "value_abs": 5267,
+        "value_pc": 2.5,
+        "group_name": "Manchester",
+        "parent": "23"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "25",
+        "key": "222. Therapy Professionals",
+        "value_abs": 804,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "23"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "26",
+        "key": "223. Nursing and Midwifery Professionals",
+        "value_abs": 4835,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "23"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "27",
+        "key": "23. Teaching and educational professionals",
+        "value_abs": 10187,
+        "value_pc": 4.8,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "28",
+        "key": "231. Teaching and Educational Professionals",
+        "value_abs": 10187,
+        "value_pc": 4.8,
+        "group_name": "Manchester",
+        "parent": "27"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "29",
+        "key": "24. Business, media and public service professionals",
+        "value_abs": 12113,
+        "value_pc": 5.7,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "30",
+        "key": "241. Legal Professionals",
+        "value_abs": 2268,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "31",
+        "key": "242. Research and Administrative Professionals",
+        "value_abs": 4883,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "32",
+        "key": "243. Architects, Town Planners and Surveyors",
+        "value_abs": 1564,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "33",
+        "key": "244. Welfare Professionals",
+        "value_abs": 1597,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "34",
+        "key": "245. Librarians and Related Professionals",
+        "value_abs": 258,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "35",
+        "key": "246. Quality and Regulatory Professionals",
+        "value_abs": 370,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "36",
+        "key": "247. Media Professionals",
+        "value_abs": 1173,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "29"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "37",
+        "key": "3. Associate professional and technical occupations",
+        "value_abs": 26590,
+        "value_pc": 12.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "38",
+        "key": "31. Science, engineering and technology associate professionals",
+        "value_abs": 3238,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "39",
+        "key": "311. Science, Engineering and Production Technicians",
+        "value_abs": 1449,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "38"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "40",
+        "key": "312. Draughtspersons and Related Architectural Technicians",
+        "value_abs": 323,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "38"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "41",
+        "key": "313. Information Technology Technicians",
+        "value_abs": 1466,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "38"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "42",
+        "key": "32. Health and social care associate professionals",
+        "value_abs": 3008,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "43",
+        "key": "321. Health Associate Professionals",
+        "value_abs": 597,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "42"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "44",
+        "key": "323. Welfare and Housing Associate Professionals",
+        "value_abs": 2411,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "42"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "45",
+        "key": "33. Protective Service Occupations",
+        "value_abs": 1159,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "46",
+        "key": "331. Protective Service Occupations",
+        "value_abs": 1159,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "45"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "47",
+        "key": "34. Culture, media and sports occupations",
+        "value_abs": 5624,
+        "value_pc": 2.6,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "48",
+        "key": "341. Artistic, Literary and Media Occupations",
+        "value_abs": 3622,
+        "value_pc": 1.7,
+        "group_name": "Manchester",
+        "parent": "47"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "49",
+        "key": "342. Design Occupations",
+        "value_abs": 1130,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "47"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "50",
+        "key": "344. Sports and Fitness Occupations",
+        "value_abs": 872,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "47"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "51",
+        "key": "35. Business and public service associate professionals",
+        "value_abs": 13561,
+        "value_pc": 6.3,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "52",
+        "key": "351. Transport Associate Professionals",
+        "value_abs": 123,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "51"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "53",
+        "key": "352. Legal Associate Professionals",
+        "value_abs": 746,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "51"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "54",
+        "key": "353. Business, Finance and Related Associate Professionals",
+        "value_abs": 3607,
+        "value_pc": 1.7,
+        "group_name": "Manchester",
+        "parent": "51"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "55",
+        "key": "354. Sales, Marketing and Related Associate Professionals",
+        "value_abs": 5649,
+        "value_pc": 2.6,
+        "group_name": "Manchester",
+        "parent": "51"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "56",
+        "key": "355. Conservation and Environmental associate professionals",
+        "value_abs": 20,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "51"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "57",
+        "key": "356. Public Services and Other Associate Professionals",
+        "value_abs": 3416,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "51"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "58",
+        "key": "4. Administrative and secretarial occupations",
+        "value_abs": 22286,
+        "value_pc": 10.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "59",
+        "key": "41. Administrative occupations",
+        "value_abs": 17126,
+        "value_pc": 8,
+        "group_name": "Manchester",
+        "parent": "58"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "60",
+        "key": "411. Government and Related Organisations",
+        "value_abs": 2653,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "59"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "61",
+        "key": "412. Finance",
+        "value_abs": 5101,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "59"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "62",
+        "key": "413. Records",
+        "value_abs": 3489,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "59"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "63",
+        "key": "415. Other Administrative Occupations",
+        "value_abs": 4899,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "59"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "64",
+        "key": "416. Office Managers and Supervisors",
+        "value_abs": 984,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "59"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "65",
+        "key": "42. Secretarial and related occupations",
+        "value_abs": 5160,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "58"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "66",
+        "key": "421. Secretarial and Related Occupations",
+        "value_abs": 5160,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "65"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "67",
+        "key": "5. Skilled trades occupations",
+        "value_abs": 16083,
+        "value_pc": 7.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "68",
+        "key": "51. Skilled agricultural and related trades",
+        "value_abs": 670,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "67"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "69",
+        "key": "511. Agricultural and Related Trades",
+        "value_abs": 670,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "68"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "70",
+        "key": "52. Skilled metal, electrical and electronic trades",
+        "value_abs": 4449,
+        "value_pc": 2.1,
+        "group_name": "Manchester",
+        "parent": "67"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "71",
+        "key": "521. Metal Forming, Welding and Related Trades",
+        "value_abs": 357,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "70"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "72",
+        "key": "522. Metal Machining, Fitting and Instrument Making Trades",
+        "value_abs": 995,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "70"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "73",
+        "key": "523. Vehicle Trades",
+        "value_abs": 1248,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "70"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "74",
+        "key": "524. Electrical and Electronic Trades",
+        "value_abs": 1710,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "70"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "75",
+        "key": "525. Skilled Metal, Electrical and Electronic Trades Supervisors",
+        "value_abs": 139,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "70"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "76",
+        "key": "53. Skilled construction and building trades",
+        "value_abs": 4736,
+        "value_pc": 2.2,
+        "group_name": "Manchester",
+        "parent": "67"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "77",
+        "key": "531. Construction and Building Trades",
+        "value_abs": 3452,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "76"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "78",
+        "key": "532. Building Finishing Trades",
+        "value_abs": 1115,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "76"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "79",
+        "key": "533. Construction and Building Trades Supervisors",
+        "value_abs": 169,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "76"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "80",
+        "key": "54. Textiles, printing and other skilled trades",
+        "value_abs": 6228,
+        "value_pc": 2.9,
+        "group_name": "Manchester",
+        "parent": "67"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "81",
+        "key": "541. Textiles and Garments Trades",
+        "value_abs": 373,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "80"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "82",
+        "key": "542. Printing Trades",
+        "value_abs": 364,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "80"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "83",
+        "key": "543. Food Preparation and Hospitality Trades",
+        "value_abs": 5092,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "80"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "84",
+        "key": "544. Other Skilled Trades",
+        "value_abs": 399,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "80"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "85",
+        "key": "6. Caring, leisure and other service occupations",
+        "value_abs": 20847,
+        "value_pc": 9.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "86",
+        "key": "61. Caring personal service occupations",
+        "value_abs": 15145,
+        "value_pc": 7.1,
+        "group_name": "Manchester",
+        "parent": "85"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "87",
+        "key": "612. Childcare and Related Personal Services",
+        "value_abs": 5268,
+        "value_pc": 2.5,
+        "group_name": "Manchester",
+        "parent": "86"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "88",
+        "key": "613. Animal Care and Control Services",
+        "value_abs": 175,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "86"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "89",
+        "key": "614. Caring Personal Services",
+        "value_abs": 9702,
+        "value_pc": 4.5,
+        "group_name": "Manchester",
+        "parent": "86"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "90",
+        "key": "62. Leisure, travel and related personal service occupations",
+        "value_abs": 5702,
+        "value_pc": 2.7,
+        "group_name": "Manchester",
+        "parent": "85"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "91",
+        "key": "621. Leisure and Travel Services",
+        "value_abs": 2164,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "90"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "92",
+        "key": "622. Hairdressers and Related Services",
+        "value_abs": 1735,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "90"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "93",
+        "key": "623. Housekeeping and Related Services",
+        "value_abs": 1117,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "90"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "94",
+        "key": "624. Cleaning and Housekeeping Managers and Supervisors",
+        "value_abs": 686,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "90"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "95",
+        "key": "7. Sales and customer service occupations",
+        "value_abs": 24065,
+        "value_pc": 11.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "96",
+        "key": "71. Sales occupations",
+        "value_abs": 18287,
+        "value_pc": 8.6,
+        "group_name": "Manchester",
+        "parent": "95"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "97",
+        "key": "711. Sales Assistants and Retail Cashiers",
+        "value_abs": 15690,
+        "value_pc": 7.3,
+        "group_name": "Manchester",
+        "parent": "96"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "98",
+        "key": "712. Sales Related Occupations",
+        "value_abs": 1465,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "96"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "99",
+        "key": "713. Sales Supervisors",
+        "value_abs": 1132,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "96"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "100",
+        "key": "72. Customer service occupations",
+        "value_abs": 5778,
+        "value_pc": 2.7,
+        "group_name": "Manchester",
+        "parent": "95"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "101",
+        "key": "721. Customer Service Occupations",
+        "value_abs": 5191,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "102",
+        "key": "722. Customer Service Managers and Supervisors",
+        "value_abs": 587,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "103",
+        "key": "8. Process, plant and machine operatives",
+        "value_abs": 13372,
+        "value_pc": 6.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "104",
+        "key": "81. Process, plant and machine operatives",
+        "value_abs": 5247,
+        "value_pc": 2.5,
+        "group_name": "Manchester",
+        "parent": "103"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "105",
+        "key": "811. Process Operatives",
+        "value_abs": 1830,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "104"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "106",
+        "key": "812. Plant and Machine Operatives",
+        "value_abs": 1239,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "104"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "107",
+        "key": "813. Assemblers and Routine Operatives",
+        "value_abs": 1010,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "104"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "108",
+        "key": "814. Construction Operatives",
+        "value_abs": 1168,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "104"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "109",
+        "key": "82. Transport and mobile machine drivers and operatives",
+        "value_abs": 8125,
+        "value_pc": 3.8,
+        "group_name": "Manchester",
+        "parent": "103"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "110",
+        "key": "821. Road Transport Drivers",
+        "value_abs": 6721,
+        "value_pc": 3.1,
+        "group_name": "Manchester",
+        "parent": "109"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "111",
+        "key": "822. Mobile Machine Drivers and Operatives",
+        "value_abs": 789,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "109"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "112",
+        "key": "823. Other Drivers and Transport Operatives",
+        "value_abs": 615,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "109"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "113",
+        "key": "9. Elementary occupations",
+        "value_abs": 31697,
+        "value_pc": 14.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "114",
+        "key": "91. Elementary trades and related occupations",
+        "value_abs": 2663,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "113"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "115",
+        "key": "911. Elementary Agricultural Occupations",
+        "value_abs": 108,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "114"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "116",
+        "key": "912. Elementary Construction Occupations",
+        "value_abs": 1031,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "114"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "117",
+        "key": "913. Elementary Process Plant Occupations",
+        "value_abs": 1524,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "114"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "118",
+        "key": "92. Elementary administration and service occupations",
+        "value_abs": 29034,
+        "value_pc": 13.6,
+        "group_name": "Manchester",
+        "parent": "113"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "119",
+        "key": "921. Elementary Administration Occupations",
+        "value_abs": 1897,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "118"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "120",
+        "key": "923. Elementary Cleaning Occupations",
+        "value_abs": 7584,
+        "value_pc": 3.5,
+        "group_name": "Manchester",
+        "parent": "118"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "121",
+        "key": "924. Elementary Security Occupations",
+        "value_abs": 4477,
+        "value_pc": 2.1,
+        "group_name": "Manchester",
+        "parent": "118"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "122",
+        "key": "925. Elementary Sales Occupations",
+        "value_abs": 769,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "118"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "123",
+        "key": "926. Elementary Storage Occupations",
+        "value_abs": 2954,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "118"
+    },
+    {
+        "dataset_id": "NM_561_1",
+        "dataset_description": "QS606EW - Occupation (Minor Groups)",
+        "id": "124",
+        "key": "927. Other Elementary Services Occupations",
+        "value_abs": 11353,
+        "value_pc": 5.3,
+        "group_name": "Manchester",
+        "parent": "118"
+    }
+]

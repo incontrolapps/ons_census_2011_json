@@ -1,0 +1,72 @@
+[
+    {
+        "dataset_id": "NM_621_1",
+        "dataset_description": "KS404EW - Car or van availability",
+        "id": "0",
+        "key": "All categories: Car or van availability",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_621_1",
+        "dataset_description": "KS404EW - Car or van availability",
+        "id": "1",
+        "key": "No cars or vans in household",
+        "value_abs": 91248,
+        "value_pc": 44.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_621_1",
+        "dataset_description": "KS404EW - Car or van availability",
+        "id": "2",
+        "key": "1 car or van in household",
+        "value_abs": 83276,
+        "value_pc": 40.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_621_1",
+        "dataset_description": "KS404EW - Car or van availability",
+        "id": "3",
+        "key": "2 cars or vans in household",
+        "value_abs": 25598,
+        "value_pc": 12.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_621_1",
+        "dataset_description": "KS404EW - Car or van availability",
+        "id": "4",
+        "key": "3 cars or vans in household",
+        "value_abs": 3779,
+        "value_pc": 1.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_621_1",
+        "dataset_description": "KS404EW - Car or van availability",
+        "id": "5",
+        "key": "4 or more cars or vans in household",
+        "value_abs": 1068,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_621_1",
+        "dataset_description": "KS404EW - Car or van availability",
+        "id": "6",
+        "key": "sum of all cars or vans in the area",
+        "value_abs": 150722,
+        "value_pc": null,
+        "group_name": "Manchester",
+        "parent": ""
+    }
+]

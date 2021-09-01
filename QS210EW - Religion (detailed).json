@@ -1,0 +1,592 @@
+[
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "0",
+        "key": "All categories: Religion",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "1",
+        "key": "Christian",
+        "value_abs": 245247,
+        "value_pc": 48.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "2",
+        "key": "Buddhist",
+        "value_abs": 3879,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "3",
+        "key": "Hindu",
+        "value_abs": 5452,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "4",
+        "key": "Jewish",
+        "value_abs": 2613,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "5",
+        "key": "Muslim (Islam)",
+        "value_abs": 79496,
+        "value_pc": 15.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "6",
+        "key": "Sikh",
+        "value_abs": 2292,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "7",
+        "key": "Other religion: Total",
+        "value_abs": 1889,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "8",
+        "key": "Other religion: Animism",
+        "value_abs": 9,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "9",
+        "key": "Other religion: Baha'i",
+        "value_abs": 48,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "10",
+        "key": "Other religion: Believe in God",
+        "value_abs": 42,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "11",
+        "key": "Other religion: Brahma Kumari",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "12",
+        "key": "Other religion: Chinese Religion",
+        "value_abs": 11,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "13",
+        "key": "Other religion: Church of All Religion",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "14",
+        "key": "Other religion: Confucianist",
+        "value_abs": 5,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "15",
+        "key": "Other religion: Deist",
+        "value_abs": 18,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "16",
+        "key": "Other religion: Druid",
+        "value_abs": 20,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "17",
+        "key": "Other religion: Druze",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "18",
+        "key": "Other religion: Eckankar",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "19",
+        "key": "Other religion: Heathen",
+        "value_abs": 14,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "20",
+        "key": "Other religion: Jain",
+        "value_abs": 129,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "21",
+        "key": "Other religion: Mixed Religion",
+        "value_abs": 130,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "22",
+        "key": "Other religion: Mysticism",
+        "value_abs": 3,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "23",
+        "key": "Other religion: Native American Church",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "24",
+        "key": "Other religion: New Age",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "25",
+        "key": "Other religion: Occult",
+        "value_abs": 11,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "26",
+        "key": "Other religion: Own Belief System",
+        "value_abs": 19,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "27",
+        "key": "Other religion: Pagan",
+        "value_abs": 378,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "28",
+        "key": "Other religion: Pantheism",
+        "value_abs": 24,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "29",
+        "key": "Other religion: Rastafarian",
+        "value_abs": 123,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "30",
+        "key": "Other religion: Ravidassia",
+        "value_abs": 17,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "31",
+        "key": "Other religion: Reconstructionist",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "32",
+        "key": "Other religion: Satanism",
+        "value_abs": 26,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "33",
+        "key": "Other religion: Scientology",
+        "value_abs": 52,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "34",
+        "key": "Other religion: Shamanism",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "35",
+        "key": "Other religion: Shintoism",
+        "value_abs": 10,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "36",
+        "key": "Other religion: Spiritual",
+        "value_abs": 145,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "37",
+        "key": "Other religion: Spiritualist",
+        "value_abs": 191,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "38",
+        "key": "Other religion: Taoist",
+        "value_abs": 64,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "39",
+        "key": "Other religion: Theism",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "40",
+        "key": "Other religion: Thelemite",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "41",
+        "key": "Other religion: Traditional African Religion",
+        "value_abs": 12,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "42",
+        "key": "Other religion: Unification Church",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "43",
+        "key": "Other religion: Universalist",
+        "value_abs": 12,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "44",
+        "key": "Other religion: Vodun",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "45",
+        "key": "Other religion: Wicca",
+        "value_abs": 86,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "46",
+        "key": "Other religion: Witchcraft",
+        "value_abs": 10,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "47",
+        "key": "Other religion: Zoroastrian",
+        "value_abs": 58,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "48",
+        "key": "Other religion: Other religions",
+        "value_abs": 181,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "7"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "49",
+        "key": "No religion: Total",
+        "value_abs": 127485,
+        "value_pc": 25.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "50",
+        "key": "No religion: No religion",
+        "value_abs": 124331,
+        "value_pc": 24.7,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "51",
+        "key": "No religion: Agnostic",
+        "value_abs": 422,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "52",
+        "key": "No religion: Atheist",
+        "value_abs": 480,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "53",
+        "key": "No religion: Free Thinker",
+        "value_abs": 3,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "54",
+        "key": "No religion: Heavy Metal",
+        "value_abs": 150,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "55",
+        "key": "No religion: Humanist",
+        "value_abs": 149,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "56",
+        "key": "No religion: Jedi Knight",
+        "value_abs": 1946,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "57",
+        "key": "No religion: Realist",
+        "value_abs": 4,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_573_1",
+        "dataset_description": "QS210EW - Religion (detailed)",
+        "id": "58",
+        "key": "Religion not stated",
+        "value_abs": 34774,
+        "value_pc": 6.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

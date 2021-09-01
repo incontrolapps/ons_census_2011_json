@@ -1,0 +1,92 @@
+[
+    {
+        "dataset_id": "NM_538_1",
+        "dataset_description": "QS406EW - Household size",
+        "id": "0",
+        "key": "All categories: Household size",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_538_1",
+        "dataset_description": "QS406EW - Household size",
+        "id": "1",
+        "key": "1 person in household",
+        "value_abs": 72255,
+        "value_pc": 35.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_538_1",
+        "dataset_description": "QS406EW - Household size",
+        "id": "2",
+        "key": "2 people in household",
+        "value_abs": 61144,
+        "value_pc": 29.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_538_1",
+        "dataset_description": "QS406EW - Household size",
+        "id": "3",
+        "key": "3 people in household",
+        "value_abs": 31456,
+        "value_pc": 15.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_538_1",
+        "dataset_description": "QS406EW - Household size",
+        "id": "4",
+        "key": "4 people in household",
+        "value_abs": 21743,
+        "value_pc": 10.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_538_1",
+        "dataset_description": "QS406EW - Household size",
+        "id": "5",
+        "key": "5 people in household",
+        "value_abs": 10226,
+        "value_pc": 5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_538_1",
+        "dataset_description": "QS406EW - Household size",
+        "id": "6",
+        "key": "6 people in household",
+        "value_abs": 5375,
+        "value_pc": 2.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_538_1",
+        "dataset_description": "QS406EW - Household size",
+        "id": "7",
+        "key": "7 people in household",
+        "value_abs": 1527,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_538_1",
+        "dataset_description": "QS406EW - Household size",
+        "id": "8",
+        "key": "8 or more people in household",
+        "value_abs": 1243,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

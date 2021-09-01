@@ -1,0 +1,62 @@
+[
+    {
+        "dataset_id": "NM_544_1",
+        "dataset_description": "QS412EW - Occupancy rating (bedrooms)",
+        "id": "0",
+        "key": "All categories: Occupancy rating bedrooms",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_544_1",
+        "dataset_description": "QS412EW - Occupancy rating (bedrooms)",
+        "id": "1",
+        "key": "Occupancy rating (bedrooms) of +2 or more",
+        "value_abs": 45509,
+        "value_pc": 22.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_544_1",
+        "dataset_description": "QS412EW - Occupancy rating (bedrooms)",
+        "id": "2",
+        "key": "Occupancy rating (bedrooms) of +1",
+        "value_abs": 70320,
+        "value_pc": 34.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_544_1",
+        "dataset_description": "QS412EW - Occupancy rating (bedrooms)",
+        "id": "3",
+        "key": "Occupancy rating (bedrooms) of 0",
+        "value_abs": 73241,
+        "value_pc": 35.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_544_1",
+        "dataset_description": "QS412EW - Occupancy rating (bedrooms)",
+        "id": "4",
+        "key": "Occupancy rating (bedrooms) of -1",
+        "value_abs": 13471,
+        "value_pc": 6.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_544_1",
+        "dataset_description": "QS412EW - Occupancy rating (bedrooms)",
+        "id": "5",
+        "key": "Occupancy rating (bedrooms) of -2 or less",
+        "value_abs": 2428,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

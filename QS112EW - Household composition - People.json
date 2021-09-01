@@ -1,0 +1,312 @@
+[
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "0",
+        "key": "All categories: Household composition",
+        "value_abs": 481030,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "1",
+        "key": "One person household: Total",
+        "value_abs": 72255,
+        "value_pc": 15,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "2",
+        "key": "One person household: Aged 65 and over",
+        "value_abs": 18891,
+        "value_pc": 3.9,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "3",
+        "key": "One person household: Other",
+        "value_abs": 53364,
+        "value_pc": 11.1,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "4",
+        "key": "One family only: Total",
+        "value_abs": 297549,
+        "value_pc": 61.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "5",
+        "key": "One family only: All aged 65 and over",
+        "value_abs": 12589,
+        "value_pc": 2.6,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "6",
+        "key": "One family only: Married couple: Total",
+        "value_abs": 146125,
+        "value_pc": 30.4,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "7",
+        "key": "One family only: Married couple: No children",
+        "value_abs": 25902,
+        "value_pc": 5.4,
+        "group_name": "Manchester",
+        "parent": "6"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "8",
+        "key": "One family only: Married couple: One dependent child",
+        "value_abs": 28204,
+        "value_pc": 5.9,
+        "group_name": "Manchester",
+        "parent": "6"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "9",
+        "key": "One family only: Married couple: Two or more dependent children",
+        "value_abs": 68637,
+        "value_pc": 14.3,
+        "group_name": "Manchester",
+        "parent": "6"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "10",
+        "key": "One family only: Married couple: All children non-dependent",
+        "value_abs": 23382,
+        "value_pc": 4.9,
+        "group_name": "Manchester",
+        "parent": "6"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "11",
+        "key": "One family only: Same-sex civil partnership couple: Total",
+        "value_abs": 926,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "12",
+        "key": "One family only: Same-sex civil partnership couple: No children",
+        "value_abs": 778,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "13",
+        "key": "One family only: Same-sex civil partnership couple: One dependent child",
+        "value_abs": 57,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "14",
+        "key": "One family only: Same-sex civil partnership couple: Two or more dependent children",
+        "value_abs": 51,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "15",
+        "key": "One family only: Same-sex civil partnership couple: All children non-dependent",
+        "value_abs": 40,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "16",
+        "key": "One family only: Cohabiting couple: Total",
+        "value_abs": 60229,
+        "value_pc": 12.5,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "17",
+        "key": "One family only: Cohabiting couple: No children",
+        "value_abs": 27266,
+        "value_pc": 5.7,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "18",
+        "key": "One family only: Cohabiting couple: One dependent child",
+        "value_abs": 11991,
+        "value_pc": 2.5,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "19",
+        "key": "One family only: Cohabiting couple: Two or more dependent children",
+        "value_abs": 17826,
+        "value_pc": 3.7,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "20",
+        "key": "One family only: Cohabiting couple: All children non-dependent",
+        "value_abs": 3146,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "21",
+        "key": "One family only: Lone parent: Total",
+        "value_abs": 77680,
+        "value_pc": 16.1,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "22",
+        "key": "One family only: Lone parent: One dependent child",
+        "value_abs": 24231,
+        "value_pc": 5,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "23",
+        "key": "One family only: Lone parent: Two or more dependent children",
+        "value_abs": 34446,
+        "value_pc": 7.2,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "24",
+        "key": "One family only: Lone parent: All children non-dependent",
+        "value_abs": 19003,
+        "value_pc": 4,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "25",
+        "key": "Other household types: Total",
+        "value_abs": 111226,
+        "value_pc": 23.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "26",
+        "key": "Other household types: With one dependent child",
+        "value_abs": 14092,
+        "value_pc": 2.9,
+        "group_name": "Manchester",
+        "parent": "25"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "27",
+        "key": "Other household types: With two or more dependent children",
+        "value_abs": 22557,
+        "value_pc": 4.7,
+        "group_name": "Manchester",
+        "parent": "25"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "28",
+        "key": "Other household types: All full-time students",
+        "value_abs": 22995,
+        "value_pc": 4.8,
+        "group_name": "Manchester",
+        "parent": "25"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "29",
+        "key": "Other household types: All aged 65 and over",
+        "value_abs": 1088,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "25"
+    },
+    {
+        "dataset_id": "NM_512_1",
+        "dataset_description": "QS112EW - Household composition - People",
+        "id": "30",
+        "key": "Other household types: Other",
+        "value_abs": 50494,
+        "value_pc": 10.5,
+        "group_name": "Manchester",
+        "parent": "25"
+    }
+]

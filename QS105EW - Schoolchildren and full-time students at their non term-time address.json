@@ -1,0 +1,32 @@
+[
+    {
+        "dataset_id": "NM_505_1",
+        "dataset_description": "QS105EW - Schoolchildren and full-time students at their non term-time address",
+        "id": "0",
+        "key": "All persons",
+        "value_abs": 3736,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_505_1",
+        "dataset_description": "QS105EW - Schoolchildren and full-time students at their non term-time address",
+        "id": "1",
+        "key": "Males",
+        "value_abs": 1838,
+        "value_pc": 49.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_505_1",
+        "dataset_description": "QS105EW - Schoolchildren and full-time students at their non term-time address",
+        "id": "2",
+        "key": "Females",
+        "value_abs": 1898,
+        "value_pc": 50.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

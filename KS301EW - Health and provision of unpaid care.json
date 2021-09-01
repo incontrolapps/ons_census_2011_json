@@ -1,0 +1,162 @@
+[
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "0",
+        "key": "All categories: Long-term health problem or disability",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "1",
+        "key": "Day-to-day activities limited a lot",
+        "value_abs": 47353,
+        "value_pc": 9.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "2",
+        "key": "Day-to-day activities limited a little",
+        "value_abs": 42011,
+        "value_pc": 8.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "3",
+        "key": "Day-to-day activities not limited",
+        "value_abs": 413763,
+        "value_pc": 82.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "4",
+        "key": "Day-to-day activities limited a lot: Age 16 to 64",
+        "value_abs": 27026,
+        "value_pc": 5.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "5",
+        "key": "Day-to-day activities limited a little: Age 16 to 64",
+        "value_abs": 26741,
+        "value_pc": 5.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "6",
+        "key": "Day-to-day activities not limited: Age 16 to 64",
+        "value_abs": 304398,
+        "value_pc": 60.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "7",
+        "key": "Very good health",
+        "value_abs": 245334,
+        "value_pc": 48.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "8",
+        "key": "Good health",
+        "value_abs": 159452,
+        "value_pc": 31.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "9",
+        "key": "Fair health",
+        "value_abs": 62651,
+        "value_pc": 12.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "10",
+        "key": "Bad health",
+        "value_abs": 27014,
+        "value_pc": 5.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "11",
+        "key": "Very bad health",
+        "value_abs": 8676,
+        "value_pc": 1.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "12",
+        "key": "Provides no unpaid care",
+        "value_abs": 460487,
+        "value_pc": 91.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "13",
+        "key": "Provides 1 to 19 hours unpaid care a week",
+        "value_abs": 23109,
+        "value_pc": 4.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "14",
+        "key": "Provides 20 to 49 hours unpaid care a week",
+        "value_abs": 7568,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_617_1",
+        "dataset_description": "KS301EW - Health and provision of unpaid care",
+        "id": "15",
+        "key": "Provides 50 or more hours unpaid care a week",
+        "value_abs": 11963,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "dataset_id": "NM_517_1",
+        "dataset_description": "QS117EW - People aged 18 to 64 living in a one adult household",
+        "id": "0",
+        "key": "All categories: Number of adults in household",
+        "value_abs": 327670,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_517_1",
+        "dataset_description": "QS117EW - People aged 18 to 64 living in a one adult household",
+        "id": "1",
+        "key": "1 adult in household",
+        "value_abs": 71767,
+        "value_pc": 21.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_517_1",
+        "dataset_description": "QS117EW - People aged 18 to 64 living in a one adult household",
+        "id": "2",
+        "key": "0 or multiple adults in household",
+        "value_abs": 255903,
+        "value_pc": 78.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

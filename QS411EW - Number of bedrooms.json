@@ -1,0 +1,72 @@
+[
+    {
+        "dataset_id": "NM_543_1",
+        "dataset_description": "QS411EW - Number of bedrooms",
+        "id": "0",
+        "key": "All categories: Number of bedrooms",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_543_1",
+        "dataset_description": "QS411EW - Number of bedrooms",
+        "id": "1",
+        "key": "No bedrooms",
+        "value_abs": 693,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_543_1",
+        "dataset_description": "QS411EW - Number of bedrooms",
+        "id": "2",
+        "key": "1 bedroom",
+        "value_abs": 33137,
+        "value_pc": 16.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_543_1",
+        "dataset_description": "QS411EW - Number of bedrooms",
+        "id": "3",
+        "key": "2 bedrooms",
+        "value_abs": 65639,
+        "value_pc": 32,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_543_1",
+        "dataset_description": "QS411EW - Number of bedrooms",
+        "id": "4",
+        "key": "3 bedrooms",
+        "value_abs": 82942,
+        "value_pc": 40.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_543_1",
+        "dataset_description": "QS411EW - Number of bedrooms",
+        "id": "5",
+        "key": "4 bedrooms",
+        "value_abs": 15776,
+        "value_pc": 7.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_543_1",
+        "dataset_description": "QS411EW - Number of bedrooms",
+        "id": "6",
+        "key": "5 or more bedrooms",
+        "value_abs": 6782,
+        "value_pc": 3.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

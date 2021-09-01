@@ -1,0 +1,52 @@
+[
+    {
+        "dataset_id": "NM_545_1",
+        "dataset_description": "QS413EW - Persons per bedroom - Households",
+        "id": "0",
+        "key": "All categories: Number of persons per bedroom in household",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_545_1",
+        "dataset_description": "QS413EW - Persons per bedroom - Households",
+        "id": "1",
+        "key": "Up to 0.5 persons per bedroom",
+        "value_abs": 51872,
+        "value_pc": 25.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_545_1",
+        "dataset_description": "QS413EW - Persons per bedroom - Households",
+        "id": "2",
+        "key": "Over 0.5 and up to 1.0 persons per bedroom",
+        "value_abs": 102132,
+        "value_pc": 49.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_545_1",
+        "dataset_description": "QS413EW - Persons per bedroom - Households",
+        "id": "3",
+        "key": "Over 1.0 and up to 1.5 persons per bedroom",
+        "value_abs": 26173,
+        "value_pc": 12.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_545_1",
+        "dataset_description": "QS413EW - Persons per bedroom - Households",
+        "id": "4",
+        "key": "Over 1.5 persons per bedroom",
+        "value_abs": 24792,
+        "value_pc": 12.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

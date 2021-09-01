@@ -1,0 +1,552 @@
+[
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "0",
+        "key": "All categories: NS-SeC of household reference person",
+        "value_abs": 427952,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "1",
+        "key": "1. Higher managerial, administrative and professional occupations",
+        "value_abs": 46935,
+        "value_pc": 11,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "2",
+        "key": "1.1 Large employers and higher managerial and administrative occupations",
+        "value_abs": 6477,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "3",
+        "key": "L1 Employers in large establishments",
+        "value_abs": 34,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "4",
+        "key": "L2 Higher managerial and administrative occupations",
+        "value_abs": 6443,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "5",
+        "key": "1.2 Higher professional occupations",
+        "value_abs": 40458,
+        "value_pc": 9.5,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "6",
+        "key": "L3.1 Traditional employees",
+        "value_abs": 25193,
+        "value_pc": 5.9,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "7",
+        "key": "L3.2 New employees",
+        "value_abs": 10129,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "8",
+        "key": "L3.3 Traditional self-employed",
+        "value_abs": 4272,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "9",
+        "key": "L3.4 New self-employed",
+        "value_abs": 864,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "10",
+        "key": "2. Lower managerial, administrative and professional occupations",
+        "value_abs": 77094,
+        "value_pc": 18,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "11",
+        "key": "L4 Lower professional and higher technical occupations",
+        "value_abs": 52128,
+        "value_pc": 12.2,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "12",
+        "key": "L4.1 Traditional employees",
+        "value_abs": 40122,
+        "value_pc": 9.4,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "13",
+        "key": "L4.2 New employees",
+        "value_abs": 5823,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "14",
+        "key": "L4.3 Traditional self-employed",
+        "value_abs": 5098,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "15",
+        "key": "L4.4 New self-employed",
+        "value_abs": 1085,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "16",
+        "key": "L5 Lower managerial and administrative occupations",
+        "value_abs": 17211,
+        "value_pc": 4,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "17",
+        "key": "L6 Higher supervisory occupations",
+        "value_abs": 7755,
+        "value_pc": 1.8,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "18",
+        "key": "3. Intermediate occupations",
+        "value_abs": 45916,
+        "value_pc": 10.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "19",
+        "key": "L7.1 Intermediate clerical and administrative occupations",
+        "value_abs": 23967,
+        "value_pc": 5.6,
+        "group_name": "Manchester",
+        "parent": "18"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "20",
+        "key": "L7.2 Intermediate sales and service occupations",
+        "value_abs": 15712,
+        "value_pc": 3.7,
+        "group_name": "Manchester",
+        "parent": "18"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "21",
+        "key": "L7.3 Intermediate technical and auxiliary occupations",
+        "value_abs": 4960,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "18"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "22",
+        "key": "L7.4 Intermediate engineering occupations",
+        "value_abs": 1277,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "18"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "23",
+        "key": "4. Small employers and own account workers",
+        "value_abs": 40421,
+        "value_pc": 9.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "24",
+        "key": "L8 Employers in small establishments",
+        "value_abs": 10315,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "23"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "25",
+        "key": "L8.1 Employers in small establishments in industry, commerce, services etc.",
+        "value_abs": 10270,
+        "value_pc": 2.4,
+        "group_name": "Manchester",
+        "parent": "24"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "26",
+        "key": "L8.2 Employers in small establishments in agriculture",
+        "value_abs": 45,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "24"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "27",
+        "key": "L9 Own account workers",
+        "value_abs": 30106,
+        "value_pc": 7,
+        "group_name": "Manchester",
+        "parent": "23"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "28",
+        "key": "L9.1 Own account workers (non-professional)",
+        "value_abs": 30020,
+        "value_pc": 7,
+        "group_name": "Manchester",
+        "parent": "27"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "29",
+        "key": "L9.2 Own account workers (agriculture)",
+        "value_abs": 86,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "27"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "30",
+        "key": "5. Lower supervisory and technical occupations",
+        "value_abs": 28782,
+        "value_pc": 6.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "31",
+        "key": "L10 Lower supervisory occupations",
+        "value_abs": 16812,
+        "value_pc": 3.9,
+        "group_name": "Manchester",
+        "parent": "30"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "32",
+        "key": "L11 Lower technical occupations",
+        "value_abs": 11970,
+        "value_pc": 2.8,
+        "group_name": "Manchester",
+        "parent": "30"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "33",
+        "key": "L11.1 Lower technical craft occupations",
+        "value_abs": 10586,
+        "value_pc": 2.5,
+        "group_name": "Manchester",
+        "parent": "32"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "34",
+        "key": "L11.2 Lower technical process operative occupations",
+        "value_abs": 1384,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "32"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "35",
+        "key": "6. Semi-routine occupations",
+        "value_abs": 59934,
+        "value_pc": 14,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "36",
+        "key": "L12.1 Semi-routine sales occupations",
+        "value_abs": 17247,
+        "value_pc": 4,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "37",
+        "key": "L12.2 Semi-routine service occupations",
+        "value_abs": 28879,
+        "value_pc": 6.7,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "38",
+        "key": "L12.3 Semi-routine technical occupations",
+        "value_abs": 2894,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "39",
+        "key": "L12.4 Semi-routine operative occupations",
+        "value_abs": 5955,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "40",
+        "key": "L12.5 Semi-routine agricultural occupations",
+        "value_abs": 90,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "41",
+        "key": "L12.6 Semi-routine clerical occupations",
+        "value_abs": 3684,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "42",
+        "key": "L12.7 Semi-routine childcare occupations",
+        "value_abs": 1185,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "43",
+        "key": "7. Routine occupations",
+        "value_abs": 51687,
+        "value_pc": 12.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "44",
+        "key": "L13.1 Routine sales and service occupations",
+        "value_abs": 8488,
+        "value_pc": 2,
+        "group_name": "Manchester",
+        "parent": "43"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "45",
+        "key": "L13.2 Routine production occupations",
+        "value_abs": 5768,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "43"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "46",
+        "key": "L13.3 Routine technical occupations",
+        "value_abs": 13697,
+        "value_pc": 3.2,
+        "group_name": "Manchester",
+        "parent": "43"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "47",
+        "key": "L13.4 Routine operative occupations",
+        "value_abs": 23520,
+        "value_pc": 5.5,
+        "group_name": "Manchester",
+        "parent": "43"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "48",
+        "key": "L13.5 Routine agricultural occupations",
+        "value_abs": 214,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "43"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "49",
+        "key": "8. Never worked and long-term unemployed",
+        "value_abs": 37494,
+        "value_pc": 8.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "50",
+        "key": "L14.1 Never worked",
+        "value_abs": 26422,
+        "value_pc": 6.2,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "51",
+        "key": "L14.2 Long-term unemployed",
+        "value_abs": 11072,
+        "value_pc": 2.6,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "52",
+        "key": "Not classified",
+        "value_abs": 39689,
+        "value_pc": 9.3,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "53",
+        "key": "L15 Full-time students",
+        "value_abs": 39590,
+        "value_pc": 9.3,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_565_1",
+        "dataset_description": "QS610EW - NS-SeC of Household Reference Person (HRP) - HRP Aged under 65",
+        "id": "54",
+        "key": "L17 Not classifiable for other reasons",
+        "value_abs": 99,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "49"
+    }
+]

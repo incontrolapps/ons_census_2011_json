@@ -1,0 +1,52 @@
+[
+    {
+        "dataset_id": "NM_613_1",
+        "dataset_description": "KS206EW - Household language",
+        "id": "0",
+        "key": "All categories: English as a household language",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_613_1",
+        "dataset_description": "KS206EW - Household language",
+        "id": "1",
+        "key": "All people aged 16 and over in household have English as a main language (English or Welsh in Wales)",
+        "value_abs": 166523,
+        "value_pc": 81.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_613_1",
+        "dataset_description": "KS206EW - Household language",
+        "id": "2",
+        "key": "At least one but not all people aged 16 and over in household have English as a main language (English or Welsh in Wales)",
+        "value_abs": 13582,
+        "value_pc": 6.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_613_1",
+        "dataset_description": "KS206EW - Household language",
+        "id": "3",
+        "key": "No people aged 16 and over in household but at least one person aged 3 to 15 has English as a main language (English or Welsh in Wales)",
+        "value_abs": 3793,
+        "value_pc": 1.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_613_1",
+        "dataset_description": "KS206EW - Household language",
+        "id": "4",
+        "key": "No people in household have English as a main language (English or Welsh in Wales)",
+        "value_abs": 21071,
+        "value_pc": 10.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "dataset_id": "NM_539_1",
+        "dataset_description": "QS407EW - Number of rooms",
+        "id": "0",
+        "key": "All categories: Number of rooms",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_539_1",
+        "dataset_description": "QS407EW - Number of rooms",
+        "id": "1",
+        "key": "1 room",
+        "value_abs": 2424,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_539_1",
+        "dataset_description": "QS407EW - Number of rooms",
+        "id": "2",
+        "key": "2 rooms",
+        "value_abs": 11445,
+        "value_pc": 5.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_539_1",
+        "dataset_description": "QS407EW - Number of rooms",
+        "id": "3",
+        "key": "3 rooms",
+        "value_abs": 34381,
+        "value_pc": 16.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_539_1",
+        "dataset_description": "QS407EW - Number of rooms",
+        "id": "4",
+        "key": "4 rooms",
+        "value_abs": 41139,
+        "value_pc": 20.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_539_1",
+        "dataset_description": "QS407EW - Number of rooms",
+        "id": "5",
+        "key": "5 rooms",
+        "value_abs": 56417,
+        "value_pc": 27.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_539_1",
+        "dataset_description": "QS407EW - Number of rooms",
+        "id": "6",
+        "key": "6 rooms",
+        "value_abs": 35749,
+        "value_pc": 17.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_539_1",
+        "dataset_description": "QS407EW - Number of rooms",
+        "id": "7",
+        "key": "7 rooms",
+        "value_abs": 12704,
+        "value_pc": 6.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_539_1",
+        "dataset_description": "QS407EW - Number of rooms",
+        "id": "8",
+        "key": "8 rooms",
+        "value_abs": 6163,
+        "value_pc": 3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_539_1",
+        "dataset_description": "QS407EW - Number of rooms",
+        "id": "9",
+        "key": "9 or more rooms",
+        "value_abs": 4547,
+        "value_pc": 2.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

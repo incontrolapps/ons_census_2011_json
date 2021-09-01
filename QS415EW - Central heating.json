@@ -1,0 +1,82 @@
+[
+    {
+        "dataset_id": "NM_547_1",
+        "dataset_description": "QS415EW - Central heating",
+        "id": "0",
+        "key": "All categories: Type of central heating in household",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_547_1",
+        "dataset_description": "QS415EW - Central heating",
+        "id": "1",
+        "key": "No central heating",
+        "value_abs": 6410,
+        "value_pc": 3.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_547_1",
+        "dataset_description": "QS415EW - Central heating",
+        "id": "2",
+        "key": "Gas central heating",
+        "value_abs": 151424,
+        "value_pc": 73.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_547_1",
+        "dataset_description": "QS415EW - Central heating",
+        "id": "3",
+        "key": "Electric (including storage heaters) central heating",
+        "value_abs": 31482,
+        "value_pc": 15.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_547_1",
+        "dataset_description": "QS415EW - Central heating",
+        "id": "4",
+        "key": "Oil central heating",
+        "value_abs": 306,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_547_1",
+        "dataset_description": "QS415EW - Central heating",
+        "id": "5",
+        "key": "Solid fuel (for example wood, coal) central heating",
+        "value_abs": 107,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_547_1",
+        "dataset_description": "QS415EW - Central heating",
+        "id": "6",
+        "key": "Other central heating",
+        "value_abs": 5685,
+        "value_pc": 2.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_547_1",
+        "dataset_description": "QS415EW - Central heating",
+        "id": "7",
+        "key": "Two or more types of central heating",
+        "value_abs": 9555,
+        "value_pc": 4.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

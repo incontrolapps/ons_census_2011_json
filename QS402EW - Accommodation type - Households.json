@@ -1,0 +1,122 @@
+[
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "0",
+        "key": "All categories: Accommodation type",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "1",
+        "key": "Unshared dwelling: Total",
+        "value_abs": 203995,
+        "value_pc": 99.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "2",
+        "key": "Unshared dwelling: Whole house or bungalow: Total",
+        "value_abs": 135683,
+        "value_pc": 66.2,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "3",
+        "key": "Unshared dwelling: Whole house or bungalow: Detached",
+        "value_abs": 10344,
+        "value_pc": 5,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "4",
+        "key": "Unshared dwelling: Whole house or bungalow: Semi-detached",
+        "value_abs": 63377,
+        "value_pc": 30.9,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "5",
+        "key": "Unshared dwelling: Whole house or bungalow: Terraced (including end-terrace)",
+        "value_abs": 61962,
+        "value_pc": 30.2,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "6",
+        "key": "Unshared dwelling: Flat, maisonette or apartment: Total",
+        "value_abs": 68227,
+        "value_pc": 33.3,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "7",
+        "key": "Unshared dwelling: Flat, maisonette or apartment: Purpose-built block of flats or tenement",
+        "value_abs": 57662,
+        "value_pc": 28.1,
+        "group_name": "Manchester",
+        "parent": "6"
+    },
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "8",
+        "key": "Unshared dwelling: Flat, maisonette or apartment: Part of a converted or shared house (including bed-sits)",
+        "value_abs": 8733,
+        "value_pc": 4.3,
+        "group_name": "Manchester",
+        "parent": "6"
+    },
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "9",
+        "key": "Unshared dwelling: Flat, maisonette or apartment: In commercial building",
+        "value_abs": 1832,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "6"
+    },
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "10",
+        "key": "Unshared dwelling: Caravan or other mobile or temporary structure",
+        "value_abs": 85,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_534_1",
+        "dataset_description": "QS402EW - Accommodation type - Households",
+        "id": "11",
+        "key": "Shared dwelling",
+        "value_abs": 974,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

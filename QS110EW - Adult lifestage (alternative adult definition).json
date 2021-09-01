@@ -1,0 +1,272 @@
+[
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "0",
+        "key": "All categories: Adult lifestage",
+        "value_abs": 383791,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "1",
+        "key": "Age 16 to 24: Total",
+        "value_abs": 82709,
+        "value_pc": 21.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "2",
+        "key": "Age 16 to 24: No dependent children in household",
+        "value_abs": 54011,
+        "value_pc": 14.1,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "3",
+        "key": "Age 16 to 24: Dependent children in household",
+        "value_abs": 28698,
+        "value_pc": 7.5,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "4",
+        "key": "Age 25 to 34: Total",
+        "value_abs": 100016,
+        "value_pc": 26.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "5",
+        "key": "Age 25 to 34: No dependent children in household",
+        "value_abs": 66022,
+        "value_pc": 17.2,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "6",
+        "key": "Age 25 to 34: Youngest dependent child in household aged 0 to 4",
+        "value_abs": 25153,
+        "value_pc": 6.6,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "7",
+        "key": "Age 25 to 34: Youngest dependent child in household aged 5 to 10",
+        "value_abs": 6370,
+        "value_pc": 1.7,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "8",
+        "key": "Age 25 to 34: Youngest dependent child in household aged 11 to 15",
+        "value_abs": 1755,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "9",
+        "key": "Age 25 to 34: Youngest dependent child in household aged 16 to 18",
+        "value_abs": 716,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "4"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "10",
+        "key": "Age 35 to 54: Total",
+        "value_abs": 117896,
+        "value_pc": 30.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "11",
+        "key": "Age 35 to 54: No dependent children in household",
+        "value_abs": 62465,
+        "value_pc": 16.3,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "12",
+        "key": "Age 35 to 54: Youngest dependent child in household aged 0 to 4",
+        "value_abs": 19722,
+        "value_pc": 5.1,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "13",
+        "key": "Age 35 to 54: Youngest dependent child in household aged 5 to 10",
+        "value_abs": 16127,
+        "value_pc": 4.2,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "14",
+        "key": "Age 35 to 54: Youngest dependent child in household aged 11 to 15",
+        "value_abs": 13798,
+        "value_pc": 3.6,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "15",
+        "key": "Age 35 to 54: Youngest dependent child in household aged 16 to 18",
+        "value_abs": 5784,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "16",
+        "key": "Age 55 to 64: Total",
+        "value_abs": 37575,
+        "value_pc": 9.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "17",
+        "key": "Age 55 to 64: One person household",
+        "value_abs": 10807,
+        "value_pc": 2.8,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "18",
+        "key": "Age 55 to 64: Two or more person household: No dependent children",
+        "value_abs": 22304,
+        "value_pc": 5.8,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "19",
+        "key": "Age 55 to 64: Dependent children in household",
+        "value_abs": 4464,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "20",
+        "key": "Age 65 to 74: Total",
+        "value_abs": 24415,
+        "value_pc": 6.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "21",
+        "key": "Age 65 to 74: One person household",
+        "value_abs": 8509,
+        "value_pc": 2.2,
+        "group_name": "Manchester",
+        "parent": "20"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "22",
+        "key": "Age 65 to 74: Two or more person household: No dependent children",
+        "value_abs": 14411,
+        "value_pc": 3.8,
+        "group_name": "Manchester",
+        "parent": "20"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "23",
+        "key": "Age 65 to 74: Dependent children in household",
+        "value_abs": 1495,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "20"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "24",
+        "key": "Age 75 and over: Total",
+        "value_abs": 21180,
+        "value_pc": 5.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "25",
+        "key": "Age 75 and over: One person household",
+        "value_abs": 10382,
+        "value_pc": 2.7,
+        "group_name": "Manchester",
+        "parent": "24"
+    },
+    {
+        "dataset_id": "NM_510_1",
+        "dataset_description": "QS110EW - Adult lifestage (alternative adult definition)",
+        "id": "26",
+        "key": "Age 75 and over: Two or more person household",
+        "value_abs": 10798,
+        "value_pc": 2.8,
+        "group_name": "Manchester",
+        "parent": "24"
+    }
+]

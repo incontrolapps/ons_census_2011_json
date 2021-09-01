@@ -1,0 +1,122 @@
+[
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "0",
+        "key": "All families in households",
+        "value_abs": 114400,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "1",
+        "key": "No dependent children in family",
+        "value_abs": 56165,
+        "value_pc": 49.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "2",
+        "key": "One dependent child in family aged 0 to 4",
+        "value_abs": 11602,
+        "value_pc": 10.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "3",
+        "key": "One dependent child in family aged 5 to 11",
+        "value_abs": 6426,
+        "value_pc": 5.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "4",
+        "key": "One dependent child in family aged 12 to 18",
+        "value_abs": 9623,
+        "value_pc": 8.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "5",
+        "key": "Two dependent children in family; youngest aged 0 to 4",
+        "value_abs": 9051,
+        "value_pc": 7.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "6",
+        "key": "Two dependent children in family; youngest aged 5 to 11",
+        "value_abs": 6223,
+        "value_pc": 5.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "7",
+        "key": "Two dependent children in family; youngest aged 12 to 18",
+        "value_abs": 3192,
+        "value_pc": 2.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "8",
+        "key": "Three or more dependent children in family; youngest aged 0 to 4",
+        "value_abs": 7329,
+        "value_pc": 6.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "9",
+        "key": "Three or more dependent children in family; youngest aged 5 to 11",
+        "value_abs": 4107,
+        "value_pc": 3.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "10",
+        "key": "Three or more dependent children in family; youngest aged 12 to 18",
+        "value_abs": 682,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_518_1",
+        "dataset_description": "QS118EW - Families with dependent children",
+        "id": "11",
+        "key": "Total dependent children",
+        "value_abs": 109373,
+        "value_pc": null,
+        "group_name": "Manchester",
+        "parent": ""
+    }
+]

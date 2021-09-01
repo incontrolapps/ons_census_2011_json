@@ -1,0 +1,172 @@
+[
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "0",
+        "key": "All categories: Household lifestage",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "1",
+        "key": "Age of HRP under 35: Total",
+        "value_abs": 68593,
+        "value_pc": 33.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "2",
+        "key": "Age of HRP under 35: One person household",
+        "value_abs": 18460,
+        "value_pc": 9,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "3",
+        "key": "Age of HRP under 35: Two or more person household: No dependent children",
+        "value_abs": 29882,
+        "value_pc": 14.6,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "4",
+        "key": "Age of HRP under 35: Two or more person household: With dependent children",
+        "value_abs": 20251,
+        "value_pc": 9.9,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "5",
+        "key": "Age of HRP 35 to 54: Total",
+        "value_abs": 77168,
+        "value_pc": 37.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "6",
+        "key": "Age of HRP 35 to 54: One person household",
+        "value_abs": 24097,
+        "value_pc": 11.8,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "7",
+        "key": "Age of HRP 35 to 54: Two or more person household: No dependent children",
+        "value_abs": 18456,
+        "value_pc": 9,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "8",
+        "key": "Age of HRP 35 to 54: Two or more person household: With dependent children",
+        "value_abs": 34615,
+        "value_pc": 16.9,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "9",
+        "key": "Age of HRP 55 to 64: Total",
+        "value_abs": 25514,
+        "value_pc": 12.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "10",
+        "key": "Age of HRP 55 to 64: One person household",
+        "value_abs": 10807,
+        "value_pc": 5.3,
+        "group_name": "Manchester",
+        "parent": "9"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "11",
+        "key": "Age of HRP 55 to 64: Two or more person household: No dependent children",
+        "value_abs": 12061,
+        "value_pc": 5.9,
+        "group_name": "Manchester",
+        "parent": "9"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "12",
+        "key": "Age of HRP 55 to 64: Two or more person household: With dependent children",
+        "value_abs": 2646,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "9"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "13",
+        "key": "Age of HRP 65 and over: Total",
+        "value_abs": 33694,
+        "value_pc": 16.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "14",
+        "key": "Age of HRP 65 and over: One person household",
+        "value_abs": 18891,
+        "value_pc": 9.2,
+        "group_name": "Manchester",
+        "parent": "13"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "15",
+        "key": "Age of HRP 65 and over: Two or more person household: No dependent children",
+        "value_abs": 14009,
+        "value_pc": 6.8,
+        "group_name": "Manchester",
+        "parent": "13"
+    },
+    {
+        "dataset_id": "NM_511_1",
+        "dataset_description": "QS111EW - Household lifestage",
+        "id": "16",
+        "key": "Age of HRP 65 and over: Two or more person household: With dependent children",
+        "value_abs": 794,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "13"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "0",
+        "key": "All categories: Household type",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "1",
+        "key": "One person household",
+        "value_abs": 72255,
+        "value_pc": 35.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "2",
+        "key": "Married couple household: With dependent children",
+        "value_abs": 25362,
+        "value_pc": 12.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "3",
+        "key": "Married couple household: No dependent children",
+        "value_abs": 27971,
+        "value_pc": 13.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "4",
+        "key": "Same-sex civil partnership couple household: With dependent children",
+        "value_abs": 34,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "5",
+        "key": "Same-sex civil partnership couple household: No dependent children",
+        "value_abs": 443,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "6",
+        "key": "Cohabiting couple household: With dependent children",
+        "value_abs": 8260,
+        "value_pc": 4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "7",
+        "key": "Cohabiting couple household: No dependent children",
+        "value_abs": 16800,
+        "value_pc": 8.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "8",
+        "key": "Lone parent household: With dependent children",
+        "value_abs": 23297,
+        "value_pc": 11.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "9",
+        "key": "Lone parent household: No dependent children",
+        "value_abs": 9419,
+        "value_pc": 4.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "10",
+        "key": "Multi-person household: All full-time students",
+        "value_abs": 6403,
+        "value_pc": 3.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_516_1",
+        "dataset_description": "QS116EW - Household type",
+        "id": "11",
+        "key": "Multi-person household: Other",
+        "value_abs": 14725,
+        "value_pc": 7.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

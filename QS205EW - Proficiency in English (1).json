@@ -1,0 +1,62 @@
+[
+    {
+        "dataset_id": "NM_526_1",
+        "dataset_description": "QS205EW - Proficiency in English",
+        "id": "0",
+        "key": "All categories: Proficiency in English",
+        "value_abs": 480738,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_526_1",
+        "dataset_description": "QS205EW - Proficiency in English",
+        "id": "1",
+        "key": "Main language is English (English or Welsh in Wales)",
+        "value_abs": 400886,
+        "value_pc": 83.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_526_1",
+        "dataset_description": "QS205EW - Proficiency in English",
+        "id": "2",
+        "key": "Main language is not English (English or Welsh in Wales): Can speak English very well",
+        "value_abs": 31159,
+        "value_pc": 6.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_526_1",
+        "dataset_description": "QS205EW - Proficiency in English",
+        "id": "3",
+        "key": "Main language is not English (English or Welsh in Wales): Can speak English well",
+        "value_abs": 32114,
+        "value_pc": 6.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_526_1",
+        "dataset_description": "QS205EW - Proficiency in English",
+        "id": "4",
+        "key": "Main language is not English (English or Welsh in Wales): Cannot speak English well",
+        "value_abs": 13898,
+        "value_pc": 2.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_526_1",
+        "dataset_description": "QS205EW - Proficiency in English",
+        "id": "5",
+        "key": "Main language is not English (English or Welsh in Wales): Cannot speak English",
+        "value_abs": 2681,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

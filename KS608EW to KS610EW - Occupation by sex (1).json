@@ -1,0 +1,32 @@
+[
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "0",
+        "key": "All persons",
+        "value_abs": 213705,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "1",
+        "key": "Males",
+        "value_abs": 15977,
+        "value_pc": 7.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_627_1",
+        "dataset_description": "KS608EW to KS610EW - Occupation by sex",
+        "id": "2",
+        "key": "Females",
+        "value_abs": 42788,
+        "value_pc": 20,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

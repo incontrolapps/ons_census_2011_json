@@ -1,0 +1,32 @@
+[
+    {
+        "dataset_id": "NM_504_1",
+        "dataset_description": "QS104EW - Sex",
+        "id": "0",
+        "key": "All persons",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_504_1",
+        "dataset_description": "QS104EW - Sex",
+        "id": "1",
+        "key": "Males",
+        "value_abs": 252623,
+        "value_pc": 50.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_504_1",
+        "dataset_description": "QS104EW - Sex",
+        "id": "2",
+        "key": "Females",
+        "value_abs": 250504,
+        "value_pc": 49.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

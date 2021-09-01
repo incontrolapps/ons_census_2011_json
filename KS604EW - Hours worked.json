@@ -1,0 +1,152 @@
+[
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "0",
+        "key": "All usual residents aged 16 to 74 in employment the week before the census",
+        "value_abs": 213705,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "1",
+        "key": "Part-time: 15 hours or less worked",
+        "value_abs": 22989,
+        "value_pc": 10.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "2",
+        "key": "Part-time: 16 to 30 hours worked",
+        "value_abs": 42956,
+        "value_pc": 20.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "3",
+        "key": "Full-time: 31 to 48 hours worked",
+        "value_abs": 127936,
+        "value_pc": 59.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "4",
+        "key": "Full-time: 49 or more hours worked",
+        "value_abs": 19824,
+        "value_pc": 9.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "5",
+        "key": "Males: Total",
+        "value_abs": 114297,
+        "value_pc": 53.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "6",
+        "key": "Males: Part-time: 15 hours or less worked",
+        "value_abs": 9617,
+        "value_pc": 4.5,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "7",
+        "key": "Males: Part-time: 16 to 30 hours worked",
+        "value_abs": 17002,
+        "value_pc": 8,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "8",
+        "key": "Males: Full-time: 31 to 48 hours worked",
+        "value_abs": 73856,
+        "value_pc": 34.6,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "9",
+        "key": "Males: Full-time: 49 or more hours worked",
+        "value_abs": 13822,
+        "value_pc": 6.5,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "10",
+        "key": "Females: Total",
+        "value_abs": 99408,
+        "value_pc": 46.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "11",
+        "key": "Females: Part-time: 15 hours or less worked",
+        "value_abs": 13372,
+        "value_pc": 6.3,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "12",
+        "key": "Females: Part-time: 16 to 30 hours worked",
+        "value_abs": 25954,
+        "value_pc": 12.1,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "13",
+        "key": "Females: Full-time: 31 to 48 hours worked",
+        "value_abs": 54080,
+        "value_pc": 25.3,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_625_1",
+        "dataset_description": "KS604EW - Hours worked",
+        "id": "14",
+        "key": "Females: Full-time: 49 or more hours worked",
+        "value_abs": 6002,
+        "value_pc": 2.8,
+        "group_name": "Manchester",
+        "parent": "10"
+    }
+]

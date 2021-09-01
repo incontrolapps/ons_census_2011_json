@@ -1,0 +1,352 @@
+[
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "0",
+        "key": "All categories: Communal establishment management and type",
+        "value_abs": 22097,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "1",
+        "key": "Medical and care establishment: Total",
+        "value_abs": 2471,
+        "value_pc": 11.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "2",
+        "key": "Medical and care establishment: NHS: Total",
+        "value_abs": 56,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "3",
+        "key": "Medical and care establishment: NHS: General hospital",
+        "value_abs": 8,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "4",
+        "key": "Medical and care establishment: NHS: Mental health hospital/unit (including secure units)",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "5",
+        "key": "Medical and care establishment: NHS: Other hospital",
+        "value_abs": 48,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "6",
+        "key": "Medical and care establishment: Local Authority: Total",
+        "value_abs": 52,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "7",
+        "key": "Medical and care establishment: Local Authority: Children's home (including secure units)",
+        "value_abs": 33,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "6"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "8",
+        "key": "Medical and care establishment: Local Authority: Care home with nursing",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "6"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "9",
+        "key": "Medical and care establishment: Local Authority: Care home without nursing",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "6"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "10",
+        "key": "Medical and care establishment: Local Authority: Other home",
+        "value_abs": 13,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "6"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "11",
+        "key": "Medical and care establishment: Registered Social Landlord/Housing Association: Total",
+        "value_abs": 12,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "12",
+        "key": "Medical and care establishment: Registered Social Landlord/Housing Association: Home or hostel",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "13",
+        "key": "Medical and care establishment: Registered Social Landlord/Housing Association: Sheltered housing only",
+        "value_abs": 12,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "14",
+        "key": "Medical and care establishment: Other: Total",
+        "value_abs": 2351,
+        "value_pc": 10.6,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "15",
+        "key": "Medical and care establishment: Other: Care home with nursing",
+        "value_abs": 1152,
+        "value_pc": 5.2,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "16",
+        "key": "Medical and care establishment: Other: Care home without nursing",
+        "value_abs": 914,
+        "value_pc": 4.1,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "17",
+        "key": "Medical and care establishment: Other: Children's home (including secure units)",
+        "value_abs": 53,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "18",
+        "key": "Medical and care establishment: Other: Mental health hospital/unit (including secure units)",
+        "value_abs": 71,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "19",
+        "key": "Medical and care establishment: Other: Other hospital",
+        "value_abs": 33,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "20",
+        "key": "Medical and care establishment: Other: Other establishment",
+        "value_abs": 128,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "21",
+        "key": "Other establishment: Total",
+        "value_abs": 19485,
+        "value_pc": 88.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "22",
+        "key": "Other establishment: Defence",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "23",
+        "key": "Other establishment: Prison service",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "24",
+        "key": "Other establishment: Approved premises (probation/bail hostel)",
+        "value_abs": 28,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "25",
+        "key": "Other establishment: Detention centres and other detention",
+        "value_abs": 868,
+        "value_pc": 3.9,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "26",
+        "key": "Other establishment: Education",
+        "value_abs": 17667,
+        "value_pc": 80,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "27",
+        "key": "Other establishment: Hotel: guest house; B&B; youth hostel",
+        "value_abs": 206,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "28",
+        "key": "Other establishment: Hostel or temporary shelter for the homeless",
+        "value_abs": 642,
+        "value_pc": 2.9,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "29",
+        "key": "Other establishment: Holiday accommodation (for example holiday parks)",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "30",
+        "key": "Other establishment: Other travel or temporary accommodation",
+        "value_abs": 10,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "31",
+        "key": "Other establishment: Religious",
+        "value_abs": 45,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "32",
+        "key": "Other establishment: Staff/worker accommodation only",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "33",
+        "key": "Other establishment: Other",
+        "value_abs": 13,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "21"
+    },
+    {
+        "dataset_id": "NM_553_1",
+        "dataset_description": "QS421EW - Communal establishment management and type - People",
+        "id": "34",
+        "key": "Establishment not stated",
+        "value_abs": 141,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

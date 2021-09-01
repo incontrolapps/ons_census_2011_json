@@ -1,0 +1,32 @@
+[
+    {
+        "dataset_id": "NM_550_1",
+        "dataset_description": "QS418EW - Dwellings",
+        "id": "0",
+        "key": "All categories: Dwelling type",
+        "value_abs": 213529,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_550_1",
+        "dataset_description": "QS418EW - Dwellings",
+        "id": "1",
+        "key": "Unshared dwelling",
+        "value_abs": 213243,
+        "value_pc": 99.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_550_1",
+        "dataset_description": "QS418EW - Dwellings",
+        "id": "2",
+        "key": "Shared dwelling",
+        "value_abs": 286,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

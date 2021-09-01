@@ -1,0 +1,62 @@
+[
+    {
+        "dataset_id": "NM_519_1",
+        "dataset_description": "QS119EW - Households by deprivation dimensions",
+        "id": "0",
+        "key": "All categories: Classification of household deprivation",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_519_1",
+        "dataset_description": "QS119EW - Households by deprivation dimensions",
+        "id": "1",
+        "key": "Household is not deprived in any dimension",
+        "value_abs": 70540,
+        "value_pc": 34.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_519_1",
+        "dataset_description": "QS119EW - Households by deprivation dimensions",
+        "id": "2",
+        "key": "Household is deprived in 1 dimension",
+        "value_abs": 68763,
+        "value_pc": 33.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_519_1",
+        "dataset_description": "QS119EW - Households by deprivation dimensions",
+        "id": "3",
+        "key": "Household is deprived in 2 dimensions",
+        "value_abs": 45745,
+        "value_pc": 22.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_519_1",
+        "dataset_description": "QS119EW - Households by deprivation dimensions",
+        "id": "4",
+        "key": "Household is deprived in 3 dimensions",
+        "value_abs": 18104,
+        "value_pc": 8.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_519_1",
+        "dataset_description": "QS119EW - Households by deprivation dimensions",
+        "id": "5",
+        "key": "Household is deprived in 4 dimensions",
+        "value_abs": 1817,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

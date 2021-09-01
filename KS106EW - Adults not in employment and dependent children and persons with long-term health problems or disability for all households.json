@@ -1,0 +1,92 @@
+[
+    {
+        "dataset_id": "NM_606_1",
+        "dataset_description": "KS106EW - Adults not in employment and dependent children and persons with long-term health problems or disability for all households",
+        "id": "0",
+        "key": "count of Household; All households",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_606_1",
+        "dataset_description": "KS106EW - Adults not in employment and dependent children and persons with long-term health problems or disability for all households",
+        "id": "100",
+        "key": "No adults in employment in household",
+        "value_abs": 73239,
+        "value_pc": 35.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_606_1",
+        "dataset_description": "KS106EW - Adults not in employment and dependent children and persons with long-term health problems or disability for all households",
+        "id": "1",
+        "key": "No adults in employment in household: With dependent children",
+        "value_abs": 15731,
+        "value_pc": 7.7,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_606_1",
+        "dataset_description": "KS106EW - Adults not in employment and dependent children and persons with long-term health problems or disability for all households",
+        "id": "2",
+        "key": "No adults in employment in household: No dependent children",
+        "value_abs": 57508,
+        "value_pc": 28.1,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_606_1",
+        "dataset_description": "KS106EW - Adults not in employment and dependent children and persons with long-term health problems or disability for all households",
+        "id": "3",
+        "key": "Dependent children in household: All ages",
+        "value_abs": 58346,
+        "value_pc": 28.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_606_1",
+        "dataset_description": "KS106EW - Adults not in employment and dependent children and persons with long-term health problems or disability for all households",
+        "id": "4",
+        "key": "Dependent children in household: Age 0 to 4",
+        "value_abs": 28258,
+        "value_pc": 13.8,
+        "group_name": "Manchester",
+        "parent": "3"
+    },
+    {
+        "dataset_id": "NM_606_1",
+        "dataset_description": "KS106EW - Adults not in employment and dependent children and persons with long-term health problems or disability for all households",
+        "id": "200",
+        "key": "One person in household with a long-term health problem or disability",
+        "value_abs": 54956,
+        "value_pc": 26.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_606_1",
+        "dataset_description": "KS106EW - Adults not in employment and dependent children and persons with long-term health problems or disability for all households",
+        "id": "5",
+        "key": "One person in household with a long-term health problem or disability: With dependent children",
+        "value_abs": 11813,
+        "value_pc": 5.8,
+        "group_name": "Manchester",
+        "parent": "200"
+    },
+    {
+        "dataset_id": "NM_606_1",
+        "dataset_description": "KS106EW - Adults not in employment and dependent children and persons with long-term health problems or disability for all households",
+        "id": "6",
+        "key": "One person in household with a long-term health problem or disability: No dependent children",
+        "value_abs": 43143,
+        "value_pc": 21,
+        "group_name": "Manchester",
+        "parent": "200"
+    }
+]

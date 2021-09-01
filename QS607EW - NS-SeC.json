@@ -1,0 +1,552 @@
+[
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "0",
+        "key": "All categories: NS-SeC",
+        "value_abs": 382932,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "1",
+        "key": "1. Higher managerial, administrative and professional occupations",
+        "value_abs": 32747,
+        "value_pc": 8.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "2",
+        "key": "1.1 Large employers and higher managerial and administrative occupations",
+        "value_abs": 4327,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "3",
+        "key": "L1 Employers in large establishments",
+        "value_abs": 20,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "4",
+        "key": "L2 Higher managerial and administrative occupations",
+        "value_abs": 4307,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "5",
+        "key": "1.2 Higher professional occupations",
+        "value_abs": 28420,
+        "value_pc": 7.4,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "6",
+        "key": "L3.1 Traditional employees",
+        "value_abs": 18225,
+        "value_pc": 4.8,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "7",
+        "key": "L3.2 New employees",
+        "value_abs": 7099,
+        "value_pc": 1.9,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "8",
+        "key": "L3.3 Traditional self-employed",
+        "value_abs": 2583,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "9",
+        "key": "L3.4 New self-employed",
+        "value_abs": 513,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "5"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "10",
+        "key": "2. Lower managerial, administrative and professional occupations",
+        "value_abs": 59425,
+        "value_pc": 15.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "11",
+        "key": "L4 Lower professional and higher technical occupations",
+        "value_abs": 41245,
+        "value_pc": 10.8,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "12",
+        "key": "L4.1 Traditional employees",
+        "value_abs": 32299,
+        "value_pc": 8.4,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "13",
+        "key": "L4.2 New employees",
+        "value_abs": 4233,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "14",
+        "key": "L4.3 Traditional self-employed",
+        "value_abs": 4009,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "15",
+        "key": "L4.4 New self-employed",
+        "value_abs": 704,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "11"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "16",
+        "key": "L5 Lower managerial and administrative occupations",
+        "value_abs": 12168,
+        "value_pc": 3.2,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "17",
+        "key": "L6 Higher supervisory occupations",
+        "value_abs": 6012,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "18",
+        "key": "3. Intermediate occupations",
+        "value_abs": 39994,
+        "value_pc": 10.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "19",
+        "key": "L7.1 Intermediate clerical and administrative occupations",
+        "value_abs": 22167,
+        "value_pc": 5.8,
+        "group_name": "Manchester",
+        "parent": "18"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "20",
+        "key": "L7.2 Intermediate sales and service occupations",
+        "value_abs": 12993,
+        "value_pc": 3.4,
+        "group_name": "Manchester",
+        "parent": "18"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "21",
+        "key": "L7.3 Intermediate technical and auxiliary occupations",
+        "value_abs": 3948,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "18"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "22",
+        "key": "L7.4 Intermediate engineering occupations",
+        "value_abs": 886,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "18"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "23",
+        "key": "4. Small employers and own account workers",
+        "value_abs": 22160,
+        "value_pc": 5.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "24",
+        "key": "L8 Employers in small establishments",
+        "value_abs": 5423,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "23"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "25",
+        "key": "L8.1 Employers in small establishments in industry, commerce, services etc.",
+        "value_abs": 5400,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "24"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "26",
+        "key": "L8.2 Employers in small establishments in agriculture",
+        "value_abs": 23,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "24"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "27",
+        "key": "L9 Own account workers",
+        "value_abs": 16737,
+        "value_pc": 4.4,
+        "group_name": "Manchester",
+        "parent": "23"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "28",
+        "key": "L9.1 Own account workers (non-professional)",
+        "value_abs": 16666,
+        "value_pc": 4.4,
+        "group_name": "Manchester",
+        "parent": "27"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "29",
+        "key": "L9.2 Own account workers (agriculture)",
+        "value_abs": 71,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "27"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "30",
+        "key": "5. Lower supervisory and technical occupations",
+        "value_abs": 20297,
+        "value_pc": 5.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "31",
+        "key": "L10 Lower supervisory occupations",
+        "value_abs": 12049,
+        "value_pc": 3.1,
+        "group_name": "Manchester",
+        "parent": "30"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "32",
+        "key": "L11 Lower technical occupations",
+        "value_abs": 8248,
+        "value_pc": 2.2,
+        "group_name": "Manchester",
+        "parent": "30"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "33",
+        "key": "L11.1 Lower technical craft occupations",
+        "value_abs": 7126,
+        "value_pc": 1.9,
+        "group_name": "Manchester",
+        "parent": "32"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "34",
+        "key": "L11.2 Lower technical process operative occupations",
+        "value_abs": 1122,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "32"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "35",
+        "key": "6. Semi-routine occupations",
+        "value_abs": 47880,
+        "value_pc": 12.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "36",
+        "key": "L12.1 Semi-routine sales occupations",
+        "value_abs": 15116,
+        "value_pc": 3.9,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "37",
+        "key": "L12.2 Semi-routine service occupations",
+        "value_abs": 21144,
+        "value_pc": 5.5,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "38",
+        "key": "L12.3 Semi-routine technical occupations",
+        "value_abs": 2515,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "39",
+        "key": "L12.4 Semi-routine operative occupations",
+        "value_abs": 4644,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "40",
+        "key": "L12.5 Semi-routine agricultural occupations",
+        "value_abs": 97,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "41",
+        "key": "L12.6 Semi-routine clerical occupations",
+        "value_abs": 3457,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "42",
+        "key": "L12.7 Semi-routine childcare occupations",
+        "value_abs": 907,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "35"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "43",
+        "key": "7. Routine occupations",
+        "value_abs": 42331,
+        "value_pc": 11.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "44",
+        "key": "L13.1 Routine sales and service occupations",
+        "value_abs": 7562,
+        "value_pc": 2,
+        "group_name": "Manchester",
+        "parent": "43"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "45",
+        "key": "L13.2 Routine production occupations",
+        "value_abs": 4925,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "43"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "46",
+        "key": "L13.3 Routine technical occupations",
+        "value_abs": 9479,
+        "value_pc": 2.5,
+        "group_name": "Manchester",
+        "parent": "43"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "47",
+        "key": "L13.4 Routine operative occupations",
+        "value_abs": 20174,
+        "value_pc": 5.3,
+        "group_name": "Manchester",
+        "parent": "43"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "48",
+        "key": "L13.5 Routine agricultural occupations",
+        "value_abs": 191,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "43"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "49",
+        "key": "8. Never worked and long-term unemployed",
+        "value_abs": 38495,
+        "value_pc": 10.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "50",
+        "key": "L14.1 Never worked",
+        "value_abs": 30042,
+        "value_pc": 7.8,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "51",
+        "key": "L14.2 Long-term unemployed",
+        "value_abs": 8453,
+        "value_pc": 2.2,
+        "group_name": "Manchester",
+        "parent": "49"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "52",
+        "key": "Not classified",
+        "value_abs": 79603,
+        "value_pc": 20.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "53",
+        "key": "L15 Full-time students",
+        "value_abs": 79603,
+        "value_pc": 20.8,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_562_1",
+        "dataset_description": "QS607EW - NS-SeC",
+        "id": "54",
+        "key": "L17 Not classifiable for other reasons",
+        "value_abs": 0,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "52"
+    }
+]

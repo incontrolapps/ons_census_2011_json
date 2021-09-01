@@ -1,0 +1,1042 @@
+[
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "0",
+        "key": "All usual residents aged 3 and over",
+        "value_abs": 480738,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "1",
+        "key": "English (English or Welsh if in Wales)",
+        "value_abs": 400886,
+        "value_pc": 83.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "2",
+        "key": "Welsh/Cymraeg (in England only)",
+        "value_abs": 222,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "3",
+        "key": "Other UK language: Total",
+        "value_abs": 103,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "4",
+        "key": "Other UK language: Gaelic (Irish)",
+        "value_abs": 52,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "3"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "5",
+        "key": "Other UK language: Gaelic (Scottish)",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "3"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "6",
+        "key": "Other UK language: Manx Gaelic",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "3"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "7",
+        "key": "Other UK language: Gaelic (Not otherwise specified)",
+        "value_abs": 14,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "3"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "8",
+        "key": "Other UK language: Cornish",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "3"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "9",
+        "key": "Other UK language: Scots",
+        "value_abs": 26,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "3"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "10",
+        "key": "Other UK language: Gypsy/Traveller languages",
+        "value_abs": 8,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "3"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "11",
+        "key": "French",
+        "value_abs": 2351,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "12",
+        "key": "Portuguese",
+        "value_abs": 1458,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "13",
+        "key": "Spanish",
+        "value_abs": 1869,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "14",
+        "key": "Other European Language (EU): Total",
+        "value_abs": 14768,
+        "value_pc": 3.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "15",
+        "key": "Other European Language (EU): Italian",
+        "value_abs": 753,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "16",
+        "key": "Other European Language (EU): German",
+        "value_abs": 936,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "17",
+        "key": "Other European Language (EU): Polish",
+        "value_abs": 6447,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "18",
+        "key": "Other European Language (EU): Slovak",
+        "value_abs": 685,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "19",
+        "key": "Other European Language (EU): Czech",
+        "value_abs": 933,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "20",
+        "key": "Other European Language (EU): Romanian",
+        "value_abs": 720,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "21",
+        "key": "Other European Language (EU): Lithuanian",
+        "value_abs": 676,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "22",
+        "key": "Other European Language (EU): Latvian",
+        "value_abs": 315,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "23",
+        "key": "Other European Language (EU): Hungarian",
+        "value_abs": 353,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "24",
+        "key": "Other European Language (EU): Bulgarian",
+        "value_abs": 381,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "25",
+        "key": "Other European Language (EU): Greek",
+        "value_abs": 1588,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "26",
+        "key": "Other European Language (EU): Dutch",
+        "value_abs": 439,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "27",
+        "key": "Other European Language (EU): Swedish",
+        "value_abs": 194,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "28",
+        "key": "Other European Language (EU): Danish",
+        "value_abs": 92,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "29",
+        "key": "Other European Language (EU): Finnish",
+        "value_abs": 86,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "30",
+        "key": "Other European Language (EU): Estonian",
+        "value_abs": 54,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "31",
+        "key": "Other European Language (EU): Slovenian",
+        "value_abs": 15,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "32",
+        "key": "Other European Language (EU): Maltese",
+        "value_abs": 42,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "33",
+        "key": "Other European Language (EU): Any other European Language (EU)",
+        "value_abs": 59,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "34",
+        "key": "Other European Language (non EU): Total",
+        "value_abs": 559,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "35",
+        "key": "Other European Language (non EU): Albanian",
+        "value_abs": 220,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "34"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "36",
+        "key": "Other European Language (non EU): Serbian/Croatian/Bosnian",
+        "value_abs": 107,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "34"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "37",
+        "key": "Other European Language (non EU): Ukrainian",
+        "value_abs": 84,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "34"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "38",
+        "key": "Other European Language (non EU): Any other Eastern European Language (non EU)",
+        "value_abs": 7,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "34"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "39",
+        "key": "Other European Language (non EU): Northern European Language (non EU)",
+        "value_abs": 141,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "34"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "40",
+        "key": "Other European Language (non-national): Total",
+        "value_abs": 34,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "41",
+        "key": "Other European Language (non-national): Romani language (any)",
+        "value_abs": 29,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "40"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "42",
+        "key": "Other European Language (non-national): Yiddish",
+        "value_abs": 5,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "40"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "43",
+        "key": "Russian",
+        "value_abs": 844,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "44",
+        "key": "Turkish",
+        "value_abs": 560,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "45",
+        "key": "Arabic",
+        "value_abs": 7037,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "46",
+        "key": "West/Central Asian Language: Total",
+        "value_abs": 6085,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "47",
+        "key": "West/Central Asian Language: Hebrew",
+        "value_abs": 50,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "46"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "48",
+        "key": "West/Central Asian Language: Kurdish",
+        "value_abs": 1886,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "46"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "49",
+        "key": "West/Central Asian Language: Persian/Farsi",
+        "value_abs": 2660,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "46"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "50",
+        "key": "West/Central Asian Language: Pashto",
+        "value_abs": 1147,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "46"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "51",
+        "key": "West/Central Asian Language: West/Central Asian Language (all other)",
+        "value_abs": 342,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "46"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "52",
+        "key": "South Asian Language: Total",
+        "value_abs": 24790,
+        "value_pc": 5.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "53",
+        "key": "South Asian Language: Urdu",
+        "value_abs": 13095,
+        "value_pc": 2.7,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "54",
+        "key": "South Asian Language: Hindi",
+        "value_abs": 601,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "55",
+        "key": "South Asian Language: Panjabi",
+        "value_abs": 4719,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "56",
+        "key": "South Asian Language: Pakistani Pahari (with Mirpuri and Potwari)",
+        "value_abs": 214,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "57",
+        "key": "South Asian Language: Bengali (with Sylheti and Chatgaya)",
+        "value_abs": 3114,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "58",
+        "key": "South Asian Language: Gujarati",
+        "value_abs": 490,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "59",
+        "key": "South Asian Language: Marathi",
+        "value_abs": 101,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "60",
+        "key": "South Asian Language: Telugu",
+        "value_abs": 364,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "61",
+        "key": "South Asian Language: Tamil",
+        "value_abs": 409,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "62",
+        "key": "South Asian Language: Malayalam",
+        "value_abs": 849,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "63",
+        "key": "South Asian Language: Sinhala",
+        "value_abs": 151,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "64",
+        "key": "South Asian Language: Nepalese",
+        "value_abs": 140,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "65",
+        "key": "South Asian Language: South Asian Language (all other)",
+        "value_abs": 543,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "66",
+        "key": "East Asian Language: Total",
+        "value_abs": 11237,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "67",
+        "key": "East Asian Language: Mandarin Chinese",
+        "value_abs": 851,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "66"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "68",
+        "key": "East Asian Language: Cantonese Chinese",
+        "value_abs": 1739,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "66"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "69",
+        "key": "East Asian Language: All other Chinese",
+        "value_abs": 5878,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "66"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "70",
+        "key": "East Asian Language: Japanese",
+        "value_abs": 198,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "66"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "71",
+        "key": "East Asian Language: Korean",
+        "value_abs": 367,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "66"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "72",
+        "key": "East Asian Language: Vietnamese",
+        "value_abs": 524,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "66"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "73",
+        "key": "East Asian Language: Thai",
+        "value_abs": 367,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "66"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "74",
+        "key": "East Asian Language: Malay",
+        "value_abs": 739,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "66"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "75",
+        "key": "East Asian Language: Tagalog/Filipino",
+        "value_abs": 389,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "66"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "76",
+        "key": "East Asian Language: East Asian Language (all other)",
+        "value_abs": 185,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "66"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "77",
+        "key": "Oceanic/Australian language (any)",
+        "value_abs": 15,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "78",
+        "key": "North/South American language (any)",
+        "value_abs": 2,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "79",
+        "key": "Caribbean Creole: Total",
+        "value_abs": 13,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "80",
+        "key": "Caribbean Creole: Caribbean Creole (English-based)",
+        "value_abs": 12,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "79"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "81",
+        "key": "Caribbean Creole: Caribbean Creole (all other)",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "79"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "82",
+        "key": "African Language: Total",
+        "value_abs": 7296,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "83",
+        "key": "African Language: Amharic",
+        "value_abs": 217,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "84",
+        "key": "African Language: Tigrinya",
+        "value_abs": 417,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "85",
+        "key": "African Language: Somali",
+        "value_abs": 2958,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "86",
+        "key": "African Language: Krio",
+        "value_abs": 12,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "87",
+        "key": "African Language: Akan",
+        "value_abs": 306,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "88",
+        "key": "African Language: Yoruba",
+        "value_abs": 559,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "89",
+        "key": "African Language: Igbo",
+        "value_abs": 181,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "90",
+        "key": "African Language: Swahili/Kiswahili",
+        "value_abs": 674,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "91",
+        "key": "African Language: Luganda",
+        "value_abs": 45,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "92",
+        "key": "African Language: Lingala",
+        "value_abs": 158,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "93",
+        "key": "African Language: Shona",
+        "value_abs": 477,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "94",
+        "key": "African Language: Afrikaans",
+        "value_abs": 30,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "95",
+        "key": "African Language: Any other Nigerian language",
+        "value_abs": 278,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "96",
+        "key": "African Language: West African language (all other)",
+        "value_abs": 302,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "97",
+        "key": "African Language: African language (all other)",
+        "value_abs": 682,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "82"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "98",
+        "key": "Other Languages: Total",
+        "value_abs": 393,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "99",
+        "key": "Other Languages: All other languages",
+        "value_abs": 393,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "98"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "100",
+        "key": "Sign Language: Total",
+        "value_abs": 216,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "101",
+        "key": "Sign Language: British sign language",
+        "value_abs": 160,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "102",
+        "key": "Sign Language: Sign Language (all other)",
+        "value_abs": 50,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "100"
+    },
+    {
+        "dataset_id": "NM_525_1",
+        "dataset_description": "QS204EW - Main language (detailed)",
+        "id": "103",
+        "key": "Sign Language: Any Sign Communication System",
+        "value_abs": 6,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "100"
+    }
+]

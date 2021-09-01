@@ -1,0 +1,132 @@
+[
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "0",
+        "key": "All categories: Year of arrival in the UK",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "1",
+        "key": "Born in the UK",
+        "value_abs": 376066,
+        "value_pc": 74.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "2",
+        "key": "Arrived before 1941",
+        "value_abs": 261,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "3",
+        "key": "Arrived 1941-1950",
+        "value_abs": 1345,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "4",
+        "key": "Arrived 1951-1960",
+        "value_abs": 4615,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "5",
+        "key": "Arrived 1961-1970",
+        "value_abs": 8035,
+        "value_pc": 1.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "6",
+        "key": "Arrived 1971-1980",
+        "value_abs": 5951,
+        "value_pc": 1.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "7",
+        "key": "Arrived 1981-1990",
+        "value_abs": 7526,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "8",
+        "key": "Arrived 1991-2000",
+        "value_abs": 18349,
+        "value_pc": 3.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "9",
+        "key": "Arrived 2001-2003",
+        "value_abs": 16733,
+        "value_pc": 3.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "10",
+        "key": "Arrived 2004-2006",
+        "value_abs": 22172,
+        "value_pc": 4.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "11",
+        "key": "Arrived 2007-2009",
+        "value_abs": 26203,
+        "value_pc": 5.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_569_1",
+        "dataset_description": "QS801EW - Year of arrival in the UK",
+        "id": "12",
+        "key": "Arrived 2010-2011",
+        "value_abs": 15871,
+        "value_pc": 3.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "dataset_id": "NM_536_1",
+        "dataset_description": "QS404EW - Tenure - Household Reference Person aged 65 and over",
+        "id": "0",
+        "key": "All categories: Tenure",
+        "value_abs": 33694,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_536_1",
+        "dataset_description": "QS404EW - Tenure - Household Reference Person aged 65 and over",
+        "id": "1",
+        "key": "Owned",
+        "value_abs": 16840,
+        "value_pc": 50,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_536_1",
+        "dataset_description": "QS404EW - Tenure - Household Reference Person aged 65 and over",
+        "id": "2",
+        "key": "Shared ownership (part owned and part rented)",
+        "value_abs": 306,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_536_1",
+        "dataset_description": "QS404EW - Tenure - Household Reference Person aged 65 and over",
+        "id": "3",
+        "key": "Rented from council (Local Authority)",
+        "value_abs": 5267,
+        "value_pc": 15.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_536_1",
+        "dataset_description": "QS404EW - Tenure - Household Reference Person aged 65 and over",
+        "id": "4",
+        "key": "Other social rented",
+        "value_abs": 8500,
+        "value_pc": 25.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_536_1",
+        "dataset_description": "QS404EW - Tenure - Household Reference Person aged 65 and over",
+        "id": "5",
+        "key": "Private rented",
+        "value_abs": 1728,
+        "value_pc": 5.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_536_1",
+        "dataset_description": "QS404EW - Tenure - Household Reference Person aged 65 and over",
+        "id": "6",
+        "key": "Living rent free",
+        "value_abs": 1053,
+        "value_pc": 3.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

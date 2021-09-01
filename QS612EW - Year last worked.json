@@ -1,0 +1,122 @@
+[
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "0",
+        "key": "All categories: Year last worked",
+        "value_abs": 382932,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "1",
+        "key": "In employment",
+        "value_abs": 213705,
+        "value_pc": 55.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "2",
+        "key": "Not in employment: Total",
+        "value_abs": 169227,
+        "value_pc": 44.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "3",
+        "key": "Last worked in 2011",
+        "value_abs": 7463,
+        "value_pc": 1.9,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "4",
+        "key": "Last worked in 2010",
+        "value_abs": 28910,
+        "value_pc": 7.5,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "5",
+        "key": "Last worked in 2009",
+        "value_abs": 12003,
+        "value_pc": 3.1,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "6",
+        "key": "Last worked in 2008",
+        "value_abs": 8523,
+        "value_pc": 2.2,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "7",
+        "key": "Last worked in 2007",
+        "value_abs": 5155,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "8",
+        "key": "Last worked in 2006",
+        "value_abs": 4249,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "9",
+        "key": "Last worked in 2001 - 2005",
+        "value_abs": 14793,
+        "value_pc": 3.9,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "10",
+        "key": "Last worked before 2001",
+        "value_abs": 27737,
+        "value_pc": 7.2,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_567_1",
+        "dataset_description": "QS612EW - Year last worked",
+        "id": "11",
+        "key": "Never worked",
+        "value_abs": 60394,
+        "value_pc": 15.8,
+        "group_name": "Manchester",
+        "parent": "2"
+    }
+]

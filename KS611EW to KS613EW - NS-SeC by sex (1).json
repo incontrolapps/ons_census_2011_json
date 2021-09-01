@@ -1,0 +1,32 @@
+[
+    {
+        "dataset_id": "NM_628_1",
+        "dataset_description": "KS611EW to KS613EW - NS-SeC by sex",
+        "id": "0",
+        "key": "All persons",
+        "value_abs": 382932,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_628_1",
+        "dataset_description": "KS611EW to KS613EW - NS-SeC by sex",
+        "id": "1",
+        "key": "Males",
+        "value_abs": 32747,
+        "value_pc": 8.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_628_1",
+        "dataset_description": "KS611EW to KS613EW - NS-SeC by sex",
+        "id": "2",
+        "key": "Females",
+        "value_abs": 4327,
+        "value_pc": 1.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

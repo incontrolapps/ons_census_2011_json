@@ -1,0 +1,42 @@
+[
+    {
+        "dataset_id": "NM_551_1",
+        "dataset_description": "QS419EW - Position in communal establishment",
+        "id": "0",
+        "key": "All categories: Position in communal establishment",
+        "value_abs": 22097,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_551_1",
+        "dataset_description": "QS419EW - Position in communal establishment",
+        "id": "1",
+        "key": "Resident",
+        "value_abs": 21733,
+        "value_pc": 98.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_551_1",
+        "dataset_description": "QS419EW - Position in communal establishment",
+        "id": "2",
+        "key": "Staff or owner",
+        "value_abs": 193,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_551_1",
+        "dataset_description": "QS419EW - Position in communal establishment",
+        "id": "3",
+        "key": "Family member or partner of staff or owner",
+        "value_abs": 171,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

@@ -1,0 +1,782 @@
+[
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "0",
+        "key": "All categories: Country of birth",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "1",
+        "key": "Europe: Total",
+        "value_abs": 410618,
+        "value_pc": 81.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "2",
+        "key": "Europe: United Kingdom: Total",
+        "value_abs": 376066,
+        "value_pc": 74.7,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "3",
+        "key": "Europe: United Kingdom: England",
+        "value_abs": 360441,
+        "value_pc": 71.6,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "4",
+        "key": "Europe: United Kingdom: Northern Ireland",
+        "value_abs": 4451,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "5",
+        "key": "Europe: United Kingdom: Scotland",
+        "value_abs": 6545,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "6",
+        "key": "Europe: United Kingdom: Wales",
+        "value_abs": 4521,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "7",
+        "key": "Europe: Great Britain not otherwise specified",
+        "value_abs": 29,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "8",
+        "key": "Europe: United Kingdom not otherwise specified",
+        "value_abs": 79,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "2"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "9",
+        "key": "Europe: Guernsey",
+        "value_abs": 49,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "10",
+        "key": "Europe: Jersey",
+        "value_abs": 77,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "11",
+        "key": "Europe: Channel Islands not otherwise specified",
+        "value_abs": 17,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "12",
+        "key": "Europe: Isle of Man",
+        "value_abs": 156,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "13",
+        "key": "Europe: Ireland",
+        "value_abs": 8737,
+        "value_pc": 1.7,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "14",
+        "key": "Europe: Other Europe: Total",
+        "value_abs": 25516,
+        "value_pc": 5.1,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "15",
+        "key": "Europe: Other Europe: EU Countries: Total",
+        "value_abs": 22942,
+        "value_pc": 4.6,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "16",
+        "key": "Europe: Other Europe: EU countries: Member countries in March 2001: Total",
+        "value_abs": 9627,
+        "value_pc": 1.9,
+        "group_name": "Manchester",
+        "parent": "15"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "17",
+        "key": "Europe: Other Europe: EU countries: Member countries in March 2001: France",
+        "value_abs": 1279,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "18",
+        "key": "Europe: Other Europe: EU countries: Member countries in March 2001: Germany",
+        "value_abs": 2258,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "19",
+        "key": "Europe: Other Europe: EU countries: Member countries in March 2001: Italy",
+        "value_abs": 1025,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "20",
+        "key": "Europe: Other Europe: EU countries: Member countries in March 2001: Portugal",
+        "value_abs": 716,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "21",
+        "key": "Europe: Other Europe: EU countries: Member countries in March 2001: Spain (including Canary Islands)",
+        "value_abs": 1229,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "22",
+        "key": "Europe: Other Europe: EU countries: Member countries in March 2001: Other member countries in March 2001",
+        "value_abs": 3120,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "16"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "23",
+        "key": "Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Total",
+        "value_abs": 13315,
+        "value_pc": 2.6,
+        "group_name": "Manchester",
+        "parent": "15"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "24",
+        "key": "Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Lithuania",
+        "value_abs": 855,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "23"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "25",
+        "key": "Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Poland",
+        "value_abs": 6836,
+        "value_pc": 1.4,
+        "group_name": "Manchester",
+        "parent": "23"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "26",
+        "key": "Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Romania",
+        "value_abs": 785,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "23"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "27",
+        "key": "Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Other EU accession countries",
+        "value_abs": 4839,
+        "value_pc": 1,
+        "group_name": "Manchester",
+        "parent": "23"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "28",
+        "key": "Europe: Other Europe: Rest of Europe: Total",
+        "value_abs": 2574,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "14"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "29",
+        "key": "Europe: Other Europe: Rest of Europe: Turkey",
+        "value_abs": 579,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "28"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "30",
+        "key": "Europe: Other Europe: Rest of Europe: Other Europe",
+        "value_abs": 1995,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "28"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "31",
+        "key": "Africa: Total",
+        "value_abs": 25815,
+        "value_pc": 5.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "32",
+        "key": "Africa: North Africa",
+        "value_abs": 3126,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "31"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "33",
+        "key": "Africa: Central and Western Africa: Total",
+        "value_abs": 11494,
+        "value_pc": 2.3,
+        "group_name": "Manchester",
+        "parent": "31"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "34",
+        "key": "Africa: Central and Western Africa: Ghana",
+        "value_abs": 1431,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "33"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "35",
+        "key": "Africa: Central and Western Africa: Nigeria",
+        "value_abs": 6444,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "33"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "36",
+        "key": "Africa: Central and Western Africa: Other Central and Western Africa",
+        "value_abs": 3619,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "33"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "37",
+        "key": "Africa: South and Eastern Africa: Total",
+        "value_abs": 11018,
+        "value_pc": 2.2,
+        "group_name": "Manchester",
+        "parent": "31"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "38",
+        "key": "Africa: South and Eastern Africa: Kenya",
+        "value_abs": 1192,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "39",
+        "key": "Africa: South and Eastern Africa: Somalia",
+        "value_abs": 3645,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "40",
+        "key": "Africa: South and Eastern Africa: South Africa",
+        "value_abs": 891,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "41",
+        "key": "Africa: South and Eastern Africa: Zimbabwe",
+        "value_abs": 2109,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "42",
+        "key": "Africa: South and Eastern Africa: Other South and Eastern Africa",
+        "value_abs": 3181,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "37"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "43",
+        "key": "Africa: Africa not otherwise specified",
+        "value_abs": 177,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "31"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "44",
+        "key": "Middle East and Asia: Total",
+        "value_abs": 57358,
+        "value_pc": 11.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "45",
+        "key": "Middle East and Asia: Middle East: Total",
+        "value_abs": 9927,
+        "value_pc": 2,
+        "group_name": "Manchester",
+        "parent": "44"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "46",
+        "key": "Middle East and Asia: Middle East: Iran",
+        "value_abs": 2520,
+        "value_pc": 0.5,
+        "group_name": "Manchester",
+        "parent": "45"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "47",
+        "key": "Middle East and Asia: Middle East: Other Middle East",
+        "value_abs": 7407,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "45"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "48",
+        "key": "Middle East and Asia: Eastern Asia: Total",
+        "value_abs": 9820,
+        "value_pc": 2,
+        "group_name": "Manchester",
+        "parent": "44"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "49",
+        "key": "Middle East and Asia: Eastern Asia: China",
+        "value_abs": 6721,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "48"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "50",
+        "key": "Middle East and Asia: Eastern Asia: Hong Kong (Special Administrative Region of China)",
+        "value_abs": 1949,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "48"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "51",
+        "key": "Middle East and Asia: Eastern Asia: Other Eastern Asia",
+        "value_abs": 1150,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "48"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "52",
+        "key": "Middle East and Asia: Southern Asia: Total",
+        "value_abs": 32726,
+        "value_pc": 6.5,
+        "group_name": "Manchester",
+        "parent": "44"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "53",
+        "key": "Middle East and Asia: Southern Asia: Bangladesh",
+        "value_abs": 3138,
+        "value_pc": 0.6,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "54",
+        "key": "Middle East and Asia: Southern Asia: India",
+        "value_abs": 6433,
+        "value_pc": 1.3,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "55",
+        "key": "Middle East and Asia: Southern Asia: Pakistan",
+        "value_abs": 20712,
+        "value_pc": 4.1,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "56",
+        "key": "Middle East and Asia: Southern Asia: Sri Lanka",
+        "value_abs": 561,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "57",
+        "key": "Middle East and Asia: Southern Asia: Other Southern Asia",
+        "value_abs": 1882,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "52"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "58",
+        "key": "Middle East and Asia: South-East Asia: Total",
+        "value_abs": 4687,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "44"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "59",
+        "key": "Middle East and Asia: South-East Asia: Philippines",
+        "value_abs": 697,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "58"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "60",
+        "key": "Middle East and Asia: South-East Asia: Other South-East Asia",
+        "value_abs": 3990,
+        "value_pc": 0.8,
+        "group_name": "Manchester",
+        "parent": "58"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "61",
+        "key": "Middle East and Asia: Central Asia",
+        "value_abs": 198,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "44"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "62",
+        "key": "The Americas and the Caribbean: Total",
+        "value_abs": 8358,
+        "value_pc": 1.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "63",
+        "key": "The Americas and the Caribbean: North America: Total",
+        "value_abs": 2019,
+        "value_pc": 0.4,
+        "group_name": "Manchester",
+        "parent": "62"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "64",
+        "key": "The Americas and the Caribbean: North America: United States",
+        "value_abs": 1313,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "63"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "65",
+        "key": "The Americas and the Caribbean: North America: Other North America",
+        "value_abs": 706,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "63"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "66",
+        "key": "The Americas and the Caribbean: Central America",
+        "value_abs": 365,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "62"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "67",
+        "key": "The Americas and the Caribbean: South America",
+        "value_abs": 1197,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "62"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "68",
+        "key": "The Americas and the Caribbean: The Caribbean: Total",
+        "value_abs": 4777,
+        "value_pc": 0.9,
+        "group_name": "Manchester",
+        "parent": "62"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "69",
+        "key": "The Americas and the Caribbean: The Caribbean: Jamaica",
+        "value_abs": 3528,
+        "value_pc": 0.7,
+        "group_name": "Manchester",
+        "parent": "68"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "70",
+        "key": "The Americas and the Caribbean: The Caribbean: Other Caribbean",
+        "value_abs": 1249,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "68"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "71",
+        "key": "Antarctica and Oceania: Total",
+        "value_abs": 977,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "72",
+        "key": "Antarctica and Oceania: Antarctica",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "71"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "73",
+        "key": "Antarctica and Oceania: Australasia: Total",
+        "value_abs": 905,
+        "value_pc": 0.2,
+        "group_name": "Manchester",
+        "parent": "71"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "74",
+        "key": "Antarctica and Oceania: Australasia: Australia",
+        "value_abs": 679,
+        "value_pc": 0.1,
+        "group_name": "Manchester",
+        "parent": "73"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "75",
+        "key": "Antarctica and Oceania: Australasia: Other Australasia",
+        "value_abs": 226,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "73"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "76",
+        "key": "Antarctica and Oceania: Other Oceania",
+        "value_abs": 71,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "71"
+    },
+    {
+        "dataset_id": "NM_524_1",
+        "dataset_description": "QS203EW - Country of birth (detailed)",
+        "id": "77",
+        "key": "Other",
+        "value_abs": 1,
+        "value_pc": 0,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

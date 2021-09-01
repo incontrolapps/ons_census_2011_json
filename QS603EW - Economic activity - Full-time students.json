@@ -1,0 +1,42 @@
+[
+    {
+        "dataset_id": "NM_558_1",
+        "dataset_description": "QS603EW - Economic activity - Full-time students",
+        "id": "0",
+        "key": "All categories: Full-time students and economic activity",
+        "value_abs": 79603,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_558_1",
+        "dataset_description": "QS603EW - Economic activity - Full-time students",
+        "id": "1",
+        "key": "Full-time students: Economically active: In employment",
+        "value_abs": 19612,
+        "value_pc": 24.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_558_1",
+        "dataset_description": "QS603EW - Economic activity - Full-time students",
+        "id": "2",
+        "key": "Full-time students: Economically active: Unemployed",
+        "value_abs": 7639,
+        "value_pc": 9.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_558_1",
+        "dataset_description": "QS603EW - Economic activity - Full-time students",
+        "id": "3",
+        "key": "Full-time students: Economically inactive",
+        "value_abs": 52352,
+        "value_pc": 65.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

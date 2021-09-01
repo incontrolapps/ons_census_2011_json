@@ -1,0 +1,62 @@
+[
+    {
+        "dataset_id": "NM_523_1",
+        "dataset_description": "QS202EW - Multiple ethnic groups",
+        "id": "0",
+        "key": "All categories: Multiple ethnic groups",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_523_1",
+        "dataset_description": "QS202EW - Multiple ethnic groups",
+        "id": "1",
+        "key": "One person household",
+        "value_abs": 72255,
+        "value_pc": 35.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_523_1",
+        "dataset_description": "QS202EW - Multiple ethnic groups",
+        "id": "2",
+        "key": "All household members have the same ethnic group",
+        "value_abs": 100019,
+        "value_pc": 48.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_523_1",
+        "dataset_description": "QS202EW - Multiple ethnic groups",
+        "id": "3",
+        "key": "Different ethnic groups between the generations only",
+        "value_abs": 10157,
+        "value_pc": 5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_523_1",
+        "dataset_description": "QS202EW - Multiple ethnic groups",
+        "id": "4",
+        "key": "Different ethnic groups within partnerships (whether or not different ethnic groups between generations)",
+        "value_abs": 12039,
+        "value_pc": 5.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_523_1",
+        "dataset_description": "QS202EW - Multiple ethnic groups",
+        "id": "5",
+        "key": "Any other combination of multiple ethnic groups",
+        "value_abs": 10499,
+        "value_pc": 5.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

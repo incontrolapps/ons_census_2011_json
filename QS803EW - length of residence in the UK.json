@@ -1,0 +1,62 @@
+[
+    {
+        "dataset_id": "NM_571_1",
+        "dataset_description": "QS803EW - length of residence in the UK",
+        "id": "0",
+        "key": "All categories: Length of residence in the UK",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_571_1",
+        "dataset_description": "QS803EW - length of residence in the UK",
+        "id": "1",
+        "key": "Born in the UK",
+        "value_abs": 376066,
+        "value_pc": 74.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_571_1",
+        "dataset_description": "QS803EW - length of residence in the UK",
+        "id": "2",
+        "key": "Resident in UK: Less than 2 years",
+        "value_abs": 23703,
+        "value_pc": 4.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_571_1",
+        "dataset_description": "QS803EW - length of residence in the UK",
+        "id": "3",
+        "key": "Resident in UK: 2 years or more but less than 5 years",
+        "value_abs": 24600,
+        "value_pc": 4.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_571_1",
+        "dataset_description": "QS803EW - length of residence in the UK",
+        "id": "4",
+        "key": "Resident in UK: 5 years or more but less than 10 years",
+        "value_abs": 31379,
+        "value_pc": 6.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_571_1",
+        "dataset_description": "QS803EW - length of residence in the UK",
+        "id": "5",
+        "key": "Resident in UK: 10 years or more",
+        "value_abs": 47379,
+        "value_pc": 9.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

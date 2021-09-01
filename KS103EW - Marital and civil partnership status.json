@@ -1,0 +1,72 @@
+[
+    {
+        "dataset_id": "NM_603_1",
+        "dataset_description": "KS103EW - Marital and civil partnership status",
+        "id": "0",
+        "key": "All usual residents aged 16+",
+        "value_abs": 405709,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_603_1",
+        "dataset_description": "KS103EW - Marital and civil partnership status",
+        "id": "1",
+        "key": "Single (never married or never registered a same-sex civil partnership)",
+        "value_abs": 222585,
+        "value_pc": 54.9,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_603_1",
+        "dataset_description": "KS103EW - Marital and civil partnership status",
+        "id": "2",
+        "key": "Married",
+        "value_abs": 119191,
+        "value_pc": 29.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_603_1",
+        "dataset_description": "KS103EW - Marital and civil partnership status",
+        "id": "3",
+        "key": "In a registered same-sex civil partnership",
+        "value_abs": 1363,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_603_1",
+        "dataset_description": "KS103EW - Marital and civil partnership status",
+        "id": "4",
+        "key": "Separated (but still legally married or still legally in a same-sex civil partnership)",
+        "value_abs": 13141,
+        "value_pc": 3.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_603_1",
+        "dataset_description": "KS103EW - Marital and civil partnership status",
+        "id": "5",
+        "key": "Divorced or formerly in a same-sex civil partnership which is now legally dissolved",
+        "value_abs": 28840,
+        "value_pc": 7.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_603_1",
+        "dataset_description": "KS103EW - Marital and civil partnership status",
+        "id": "6",
+        "key": "Widowed or surviving partner from a same-sex civil partnership",
+        "value_abs": 20589,
+        "value_pc": 5.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "dataset_id": "NM_501_1",
+        "dataset_description": "QS101EW - Residence type",
+        "id": "0",
+        "key": "All categories: Residence type",
+        "value_abs": 503127,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_501_1",
+        "dataset_description": "QS101EW - Residence type",
+        "id": "1",
+        "key": "Lives in a household",
+        "value_abs": 481030,
+        "value_pc": 95.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_501_1",
+        "dataset_description": "QS101EW - Residence type",
+        "id": "2",
+        "key": "Lives in a communal establishment",
+        "value_abs": 22097,
+        "value_pc": 4.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_501_1",
+        "dataset_description": "QS101EW - Residence type",
+        "id": "3",
+        "key": "Communal establishments with persons sleeping rough identified",
+        "value_abs": 1,
+        "value_pc": null,
+        "group_name": "Manchester",
+        "parent": "2"
+    }
+]

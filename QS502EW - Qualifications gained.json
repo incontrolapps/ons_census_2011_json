@@ -1,0 +1,142 @@
+[
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "0",
+        "key": "All usual residents aged 16 and over",
+        "value_abs": 405709,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "1",
+        "key": "No qualifications",
+        "value_abs": 93765,
+        "value_pc": 23.1,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "2",
+        "key": "1-4 O levels/CSE/GCSEs (any grades), Entry Level, Foundation Diploma",
+        "value_abs": 123686,
+        "value_pc": 30.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "3",
+        "key": "NVQ Level 1, Foundation GNVQ, Basic Skills",
+        "value_abs": 34006,
+        "value_pc": 8.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "4",
+        "key": "5+ O level (Passes)/CSEs (Grade 1)/GCSEs (Grades A*-C), School Certificate, 1 A level/2-3 AS levels/VCEs, Higher Diploma, Welsh Baccalaureate Intermediate Diploma",
+        "value_abs": 143321,
+        "value_pc": 35.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "5",
+        "key": "NVQ Level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First/General Diploma, RSA Diploma",
+        "value_abs": 49795,
+        "value_pc": 12.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "6",
+        "key": "Apprenticeship",
+        "value_abs": 11492,
+        "value_pc": 2.8,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "7",
+        "key": "2+ A levels/VCEs, 4+ AS levels, Higher School Certificate, Progression/Advanced Diploma, Welsh Baccalaureate Advanced Diploma",
+        "value_abs": 105457,
+        "value_pc": 26,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "8",
+        "key": "NVQ Level 3, Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",
+        "value_abs": 33664,
+        "value_pc": 8.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "9",
+        "key": "Degree (for example BA, BSc), Higher degree (for example MA, PhD, PGCE)",
+        "value_abs": 93927,
+        "value_pc": 23.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "10",
+        "key": "NVQ Level 4-5, HNC, HND, RSA Higher Diploma, BTEC Higher Level",
+        "value_abs": 12801,
+        "value_pc": 3.2,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "11",
+        "key": "Professional qualifications (for example teaching, nursing, accountancy)",
+        "value_abs": 42638,
+        "value_pc": 10.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "12",
+        "key": "Other vocational/work-related qualifications",
+        "value_abs": 46525,
+        "value_pc": 11.5,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_555_1",
+        "dataset_description": "QS502EW - Qualifications gained",
+        "id": "13",
+        "key": "Foreign qualifications",
+        "value_abs": 44568,
+        "value_pc": 11,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

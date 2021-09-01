@@ -1,0 +1,32 @@
+[
+    {
+        "dataset_id": "NM_549_1",
+        "dataset_description": "QS417EW - Household spaces",
+        "id": "0",
+        "key": "All categories: Household spaces",
+        "value_abs": 214377,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_549_1",
+        "dataset_description": "QS417EW - Household spaces",
+        "id": "1",
+        "key": "Household spaces with at least one usual resident",
+        "value_abs": 204969,
+        "value_pc": 95.6,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_549_1",
+        "dataset_description": "QS417EW - Household spaces",
+        "id": "2",
+        "key": "Household spaces with no usual residents",
+        "value_abs": 9408,
+        "value_pc": 4.4,
+        "group_name": "Manchester",
+        "parent": "0"
+    }
+]

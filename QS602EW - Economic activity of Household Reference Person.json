@@ -1,0 +1,162 @@
+[
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "0",
+        "key": "All categories: Economic activity",
+        "value_abs": 204969,
+        "value_pc": 100,
+        "group_name": "Manchester",
+        "parent": ""
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "1",
+        "key": "Economically active: Total",
+        "value_abs": 136666,
+        "value_pc": 66.7,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "2",
+        "key": "Economically active: Employee: Part-time",
+        "value_abs": 20447,
+        "value_pc": 10,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "3",
+        "key": "Economically active: Employee: Full-time",
+        "value_abs": 82348,
+        "value_pc": 40.2,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "4",
+        "key": "Economically active: Self-employed with employees: Part-time",
+        "value_abs": 680,
+        "value_pc": 0.3,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "5",
+        "key": "Economically active: Self-employed with employees: Full-time",
+        "value_abs": 3133,
+        "value_pc": 1.5,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "6",
+        "key": "Economically active: Self-employed without employees: Part-time",
+        "value_abs": 3813,
+        "value_pc": 1.9,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "7",
+        "key": "Economically active: Self-employed without employees: Full-time",
+        "value_abs": 8771,
+        "value_pc": 4.3,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "8",
+        "key": "Economically active: Unemployed",
+        "value_abs": 9922,
+        "value_pc": 4.8,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "9",
+        "key": "Economically active: Full-time student",
+        "value_abs": 7552,
+        "value_pc": 3.7,
+        "group_name": "Manchester",
+        "parent": "1"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "10",
+        "key": "Economically inactive: Total",
+        "value_abs": 68303,
+        "value_pc": 33.3,
+        "group_name": "Manchester",
+        "parent": "0"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "11",
+        "key": "Economically inactive: Retired",
+        "value_abs": 33875,
+        "value_pc": 16.5,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "12",
+        "key": "Economically inactive: Student (including full-time students)",
+        "value_abs": 7536,
+        "value_pc": 3.7,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "13",
+        "key": "Economically inactive: Looking after home or family",
+        "value_abs": 6146,
+        "value_pc": 3,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "14",
+        "key": "Economically inactive: Long-term sick or disabled",
+        "value_abs": 15273,
+        "value_pc": 7.5,
+        "group_name": "Manchester",
+        "parent": "10"
+    },
+    {
+        "dataset_id": "NM_557_1",
+        "dataset_description": "QS602EW - Economic activity of Household Reference Person",
+        "id": "15",
+        "key": "Economically inactive: Other",
+        "value_abs": 5473,
+        "value_pc": 2.7,
+        "group_name": "Manchester",
+        "parent": "10"
+    }
+]
