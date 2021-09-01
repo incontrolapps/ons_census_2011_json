@@ -125,6 +125,6 @@ arr.push({
 
 for(let i=0; i<reshaped_families.length; i++)arr.find(e=>e.id==[Object.keys(reshaped_families[i])]).parent=reshaped_families[i][Object.keys(reshaped_families[i])];
 
-console.save(arr,name +".js");
+console.save(arr,name +".json");
 })
 }
